@@ -1,0 +1,15 @@
+Aspecto,Temperatura,Umidade,Vento,Jogar
+Ensolarado,Quente,Alto,Falso,Nao
+Ensolarado,Quente,Alto,Verdadeiro,Nao
+Nublado,Quente,Alto,Falso,Sim
+Chuvoso,Moderado,Alto,Falso,Sim
+Chuvoso,Frio,Normal,Falso,Sim
+Chuvoso,Frio,Normal,Verdadeiro,Nao
+Nublado,Frio,Normal,Verdadeiro,Sim
+Ensolarado,Moderado,Alto,Falso,Nao
+Ensolarado,Frio,Normal,Falso,Sim
+Chuvoso,Moderado,Normal,Falso,Sim
+Ensolarado,Moderado,Normal,Verdadeiro,Sim
+Nublado,Moderado,Alto,Verdadeiro,Sim
+Nublado,Quente,Normal,Falso,Sim
+Chuvoso,Moderado,Alto,Verdadeiro,Nao

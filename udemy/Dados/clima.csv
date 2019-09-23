@@ -1,0 +1,15 @@
+Aparencia,Temperatura,Umidade,Ventoso,Jogar 
+ensolarado,quente,alta,Falso,não
+ensolarado,quente,alta,Verdadeiro,não
+nublado,quente,alta,Falso,sim
+chuvoso,amena,alta,Falso,sim
+chuvoso,frio,nãormal,Falso,sim
+chuvoso,frio,nãormal,Verdadeiro,não
+nublado,frio,nãormal,Verdadeiro,sim
+ensolarado,amena,alta,Falso,não
+ensolarado,frio,nãormal,Falso,sim
+chuvoso,amena,nãormal,Falso,sim
+ensolarado,amena,nãormal,Verdadeiro,sim
+nublado,amena,alta,Verdadeiro,sim
+nublado,quente,nãormal,Falso,sim
+chuvoso,amena,alta,Verdadeiro,não

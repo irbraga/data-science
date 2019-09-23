@@ -1,0 +1,723 @@
+﻿CODIGOFATURA,DATAFATURA,DATAPAGAMENTO,VALOR,CODIGOITEM,QUANTIDADE,SUBTOTAL,PRECOUNITARIO,VENDEDOR,CLIENTE,PRODUTO
+69,09/05/2011,11/05/2011,"2519,07",289,1,"8,99","8,99",Maria  Yang,Truing Tecnologia,Cooler Master Red LED Case Fan
+61,23/04/2011,26/04/2011,"986,3",259,1,"200,2","200,2",Maria  Yang,Kaify,PCI Express 2.0 2DVI
+176,22/11/2011,25/11/2011,"570,16",675,1,399,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+114,21/07/2011,25/07/2011,"1096,95",464,2,798,399,Emili  Mcdonald,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+26,01/03/2011,03/03/2011,"2399,8",133,2,"17,98","8,99",Maria  Yang,Truing Tecnologia,Cooler Master Red LED Case Fan
+14,05/02/2011,09/02/2011,"3917,35",79,2,"400,4","200,2",Emili  Mcdonald,Truing Tecnologia,PCI Express 2.0 2DVI
+36,16/03/2011,17/03/2011,"2472,45",172,1,"61,98","61,98",Emili  Mcdonald,Spoint Sistemas de Informação,ATX Motherboard
+153,22/10/2011,25/10/2011,"492,74",603,1,"200,2","200,2",Maria  Yang,Digister,PCI Express 2.0 2DVI
+15,07/02/2011,11/02/2011,"2472,45",88,1,"749,99","749,99",Emili  Mcdonald,Roozio Informática,GeForce GTX 590 Classified
+99,29/06/2011,01/07/2011,"2472,45",401,1,399,399,Maria  Yang,Triloo Assistência Técnica,i7-2700K 3.5 GHz LGA 1155 Processor
+161,27/10/2011,29/10/2011,"479,96",628,2,78,39,Maria  Yang,Levester Tecnologia,USB Portable Sound Card / Dac
+164,29/10/2011,02/11/2011,"693,48",634,1,39,39,Maria  Yang,Roozio Informática,USB Portable Sound Card / Dac
+18,14/02/2011,16/02/2011,"774,97",102,1,"749,99","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+132,30/08/2011,02/09/2011,"-1991,94",526,2,"17,98","8,99",Benedito  Perry,Truing Tecnologia,Cooler Master Red LED Case Fan
+56,10/04/2011,14/04/2011,"1159,19",243,1,"49,99","49,99",Maria  Yang,Truing Tecnologia,Inch Midtower Case
+6,17/01/2011,18/01/2011,"4784,35",39,1,"49,99","49,99",Emili  Mcdonald,Truing Tecnologia,Inch Midtower Case
+3,15/01/2011,18/01/2011,14228,14,2,798,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+91,15/06/2011,18/06/2011,"3135,46",370,2,"99,98","49,99",José  Gardner,Kaify,Inch Midtower Case
+85,07/06/2011,09/06/2011,"1547,97",347,1,"200,2","200,2",Maria  Yang,Agilvee,PCI Express 2.0 2DVI
+185,08/12/2011,11/12/2011,"1570,57",705,1,39,39,Emili  Mcdonald,Roozio Informática,USB Portable Sound Card / Dac
+33,14/03/2011,17/03/2011,"3962,28",159,2,78,39,José  Gardner,Kaify,USB Portable Sound Card / Dac
+178,25/11/2011,01/12/2011,"2646,8",686,1,"61,98","61,98",José  Gardner,Kaify,ATX Motherboard
+175,18/11/2011,22/11/2011,"427,82",672,1,"749,99","749,99",Aladdin  Blackwell,Triloo Assistência Técnica,GeForce GTX 590 Classified
+188,17/12/2011,18/12/2011,"427,82",720,1,39,39,Maria  Yang,Spoint Sistemas de Informação,USB Portable Sound Card / Dac
+19,17/02/2011,23/02/2011,"930,47",110,1,"200,2","200,2",Maria  Yang,Kaify,PCI Express 2.0 2DVI
+143,21/09/2011,23/09/2011,"419,98",566,2,"123,96","61,98",Benedito  Perry,Kaify,ATX Motherboard
+142,21/09/2011,22/09/2011,"2151,09",560,2,"400,4","200,2",Emili  Mcdonald,Kaify,PCI Express 2.0 2DVI
+134,01/09/2011,04/09/2011,"3584,46",528,2,"123,96","61,98",José  Gardner,Kaify,ATX Motherboard
+3,15/01/2011,18/01/2011,14228,16,2,798,399,Maria  Yang,Digister,i7-2700K 3.5 GHz LGA 1155 Processor
+71,13/05/2011,19/05/2011,"1044,58",297,1,39,39,Emili  Mcdonald,Agilvee,USB Portable Sound Card / Dac
+124,05/08/2011,08/08/2011,"1681,68",497,1,"61,98","61,98",Emili  Mcdonald,Digister,ATX Motherboard
+122,03/08/2011,06/08/2011,"2594,5",487,2,"123,96","61,98",Maria  Yang,Truing Tecnologia,ATX Motherboard
+43,31/03/2011,01/04/2011,"1148,41",197,2,"400,4","200,2",Emili  Mcdonald,Truing Tecnologia,PCI Express 2.0 2DVI
+4,16/01/2011,19/01/2011,"1478,64",24,2,"400,4","200,2",Maria  Yang,Tadoo,PCI Express 2.0 2DVI
+182,03/12/2011,07/12/2011,"1040,95",697,2,"400,4","200,2",Maria  Yang,Roozio Informática,PCI Express 2.0 2DVI
+149,07/10/2011,09/10/2011,"839,4",586,2,"1499,98","749,99",Emili  Mcdonald,Tadoo,GeForce GTX 590 Classified
+145,30/09/2011,06/10/2011,"975,84",573,1,"200,2","200,2",Maria  Yang,Spoint Sistemas de Informação,PCI Express 2.0 2DVI
+77,28/05/2011,29/05/2011,"370,48",320,1,"749,99","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+60,19/04/2011,23/04/2011,"1239,84",254,2,"400,4","200,2",José  Gardner,Kaify,PCI Express 2.0 2DVI
+6,17/01/2011,18/01/2011,"4784,35",41,1,"49,99","49,99",Benedito  Perry,Kaify,Inch Midtower Case
+171,06/11/2011,07/11/2011,"170,53",660,1,39,39,José  Gardner,Triloo Assistência Técnica,USB Portable Sound Card / Dac
+72,17/05/2011,19/05/2011,"947,35",300,1,"49,99","49,99",Maria  Yang,Kaify,Inch Midtower Case
+137,06/09/2011,07/09/2011,"947,35",545,1,399,399,Emili  Mcdonald,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+125,05/08/2011,09/08/2011,"435,92",500,1,"61,98","61,98",José  Gardner,Spoint Sistemas de Informação,ATX Motherboard
+151,10/10/2011,12/10/2011,"1282,36",599,6,2394,399,Aladdin  Blackwell,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+86,08/06/2011,14/06/2011,"779,25",350,1,399,399,Emili  Mcdonald,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+119,28/07/2011,29/07/2011,"347,14",477,2,"17,98","8,99",Emili  Mcdonald,Kaify,Cooler Master Red LED Case Fan
+41,27/03/2011,29/03/2011,"747,47",191,2,"99,98","49,99",Emili  Mcdonald,Triloo Assistência Técnica,Inch Midtower Case
+88,12/06/2011,15/06/2011,"898,44",360,1,"749,99","749,99",Maria  Yang,Truing Tecnologia,GeForce GTX 590 Classified
+3,15/01/2011,18/01/2011,14228,17,2,798,399,Maria  Yang,Mecabox Info,i7-2700K 3.5 GHz LGA 1155 Processor
+142,21/09/2011,22/09/2011,"2151,09",561,2,"99,98","49,99",José  Gardner,Roozio Informática,Inch Midtower Case
+134,01/09/2011,04/09/2011,"3584,46",529,2,"99,98","49,99",Emili  Mcdonald,Kaify,Inch Midtower Case
+14,05/02/2011,09/02/2011,"3917,35",78,2,"1499,98","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+161,27/10/2011,29/10/2011,"479,96",627,2,"99,98","49,99",Emili  Mcdonald,Kaify,Inch Midtower Case
+120,28/07/2011,29/07/2011,"1099,01",482,6,"1201,2","200,2",Maria  Yang,Truing Tecnologia,PCI Express 2.0 2DVI
+162,28/10/2011,29/10/2011,"163,17",629,1,"61,98","61,98",Emili  Mcdonald,Truing Tecnologia,ATX Motherboard
+82,03/06/2011,04/06/2011,"1163,87",337,6,"4499,94","749,99",Aladdin  Blackwell,Kaify,GeForce GTX 590 Classified
+55,09/04/2011,11/04/2011,"566,09",239,1,"8,99","8,99",José  Gardner,Tadoo,Cooler Master Red LED Case Fan
+58,15/04/2011,16/04/2011,"1965,82",247,1,"61,98","61,98",Maria  Yang,Triloo Assistência Técnica,ATX Motherboard
+122,03/08/2011,06/08/2011,"2594,5",491,3,"2249,97","749,99",Emili  Mcdonald,Digister,GeForce GTX 590 Classified
+37,16/03/2011,19/03/2011,"462,71",177,3,"2249,97","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+89,13/06/2011,16/06/2011,"660,65",362,1,399,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+13,04/02/2011,07/02/2011,"2755,68",69,1,"61,98","61,98",Maria  Yang,Kaify,ATX Motherboard
+17,14/02/2011,20/02/2011,"380,32",99,1,"200,2","200,2",Emili  Mcdonald,Spoint Sistemas de Informação,PCI Express 2.0 2DVI
+6,17/01/2011,18/01/2011,"4784,35",42,1,"749,99","749,99",Maria  Yang,Digister,GeForce GTX 590 Classified
+137,06/09/2011,07/09/2011,"947,35",547,1,"200,2","200,2",Aladdin  Blackwell,Mecabox Info,PCI Express 2.0 2DVI
+186,10/12/2011,13/12/2011,"1964,58",710,1,39,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+145,30/09/2011,06/10/2011,"975,84",575,1,"8,99","8,99",Maria  Yang,Truing Tecnologia,Cooler Master Red LED Case Fan
+86,08/06/2011,14/06/2011,"779,25",352,1,"61,98","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+72,17/05/2011,19/05/2011,"947,35",302,1,"200,2","200,2",Maria  Yang,Truing Tecnologia,PCI Express 2.0 2DVI
+116,24/07/2011,26/07/2011,"1428,13",472,2,"400,4","200,2",Maria  Yang,Digister,PCI Express 2.0 2DVI
+30,08/03/2011,14/03/2011,"2676,91",149,2,"400,4","200,2",Maria  Yang,Truing Tecnologia,PCI Express 2.0 2DVI
+180,29/11/2011,03/12/2011,"1806,03",689,1,399,399,Emili  Mcdonald,Spoint Sistemas de Informação,i7-2700K 3.5 GHz LGA 1155 Processor
+39,25/03/2011,27/03/2011,"647,89",187,1,39,39,Emili  Mcdonald,Roozio Informática,USB Portable Sound Card / Dac
+18,14/02/2011,16/02/2011,"774,97",100,1,"61,98","61,98",Aladdin  Blackwell,Truing Tecnologia,ATX Motherboard
+111,14/07/2011,20/07/2011,"429,95",447,2,"99,98","49,99",Benedito  Perry,Agilvee,Inch Midtower Case
+163,28/10/2011,03/11/2011,"222,96",632,1,"61,98","61,98",Maria  Yang,Kaify,ATX Motherboard
+152,11/10/2011,13/10/2011,"493,14",602,3,"149,97","49,99",Maria  Yang,Kaify,Inch Midtower Case
+157,24/10/2011,25/10/2011,"3004,67",613,2,"1499,98","749,99",Maria  Yang,Truing Tecnologia,GeForce GTX 590 Classified
+136,02/09/2011,03/09/2011,"1313,19",540,2,"17,98","8,99",Maria  Yang,Truing Tecnologia,Cooler Master Red LED Case Fan
+174,16/11/2011,19/11/2011,"573,91",667,7,"62,93","8,99",Emili  Mcdonald,Spoint Sistemas de Informação,Cooler Master Red LED Case Fan
+112,16/07/2011,19/07/2011,"1833,56",455,2,"99,98","49,99",Maria  Yang,Spoint Sistemas de Informação,Inch Midtower Case
+78,30/05/2011,02/06/2011,"1833,56",328,2,"99,98","49,99",José  Gardner,Truing Tecnologia,Inch Midtower Case
+69,09/05/2011,11/05/2011,"2519,07",287,7,"5249,93","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+141,20/09/2011,22/09/2011,"1833,56",559,2,"99,98","49,99",Maria  Yang,Kaify,Inch Midtower Case
+93,18/06/2011,24/06/2011,"110,04",377,6,"4499,94","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+63,26/04/2011,02/05/2011,"3727,53",264,4,"2999,96","749,99",Benedito  Perry,Kaify,GeForce GTX 590 Classified
+167,03/11/2011,06/11/2011,"445,37",643,4,"199,96","49,99",Maria  Yang,Levester Tecnologia,Inch Midtower Case
+112,16/07/2011,19/07/2011,"1833,56",453,1,"8,99","8,99",Maria  Yang,Truing Tecnologia,Cooler Master Red LED Case Fan
+141,20/09/2011,22/09/2011,"1833,56",557,1,"49,99","49,99",Maria  Yang,Truing Tecnologia,Inch Midtower Case
+178,25/11/2011,01/12/2011,"2646,8",684,1,399,399,Maria  Yang,Digister,i7-2700K 3.5 GHz LGA 1155 Processor
+78,30/05/2011,02/06/2011,"1833,56",326,1,"49,99","49,99",Maria  Yang,Tadoo,Inch Midtower Case
+40,26/03/2011,28/03/2011,"84,99",188,1,"8,99","8,99",José  Gardner,Tadoo,Cooler Master Red LED Case Fan
+13,04/02/2011,07/02/2011,"2755,68",70,1,39,39,Maria  Yang,Truing Tecnologia,USB Portable Sound Card / Dac
+76,28/05/2011,31/05/2011,"2984,6",317,2,78,39,José  Gardner,Truing Tecnologia,USB Portable Sound Card / Dac
+117,24/07/2011,25/07/2011,"794,96",475,1,399,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+170,05/11/2011,08/11/2011,"2604,61",657,2,"99,98","49,99",Aladdin  Blackwell,Mecabox Info,Inch Midtower Case
+144,25/09/2011,28/09/2011,"761,45",568,6,234,39,Maria  Yang,Roozio Informática,USB Portable Sound Card / Dac
+20,18/02/2011,19/02/2011,"1664,54",111,6,2394,399,Emili  Mcdonald,Tadoo,i7-2700K 3.5 GHz LGA 1155 Processor
+132,30/08/2011,02/09/2011,"-1991,94",525,1,"61,98","61,98",Emili  Mcdonald,Tadoo,ATX Motherboard
+61,23/04/2011,26/04/2011,"986,3",258,1,39,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+93,18/06/2011,24/06/2011,"110,04",376,6,234,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+117,24/07/2011,25/07/2011,"794,96",474,2,"123,96","61,98",Maria  Yang,Truing Tecnologia,ATX Motherboard
+31,13/03/2011,14/03/2011,"298,82",151,2,"99,98","49,99",Emili  Mcdonald,Truing Tecnologia,Inch Midtower Case
+7,24/01/2011,27/01/2011,"2581,4",43,1,39,39,Emili  Mcdonald,Spoint Sistemas de Informação,USB Portable Sound Card / Dac
+160,27/10/2011,28/10/2011,"524,21",626,3,"149,97","49,99",Emili  Mcdonald,Agilvee,Inch Midtower Case
+14,05/02/2011,09/02/2011,"3917,35",77,3,"26,97","8,99",Emili  Mcdonald,Triloo Assistência Técnica,Cooler Master Red LED Case Fan
+147,04/10/2011,07/10/2011,"799,91",580,1,399,399,José  Gardner,Levester Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+137,06/09/2011,07/09/2011,"947,35",543,3,1197,399,José  Gardner,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+124,05/08/2011,08/08/2011,"1681,68",498,3,"600,6","200,2",José  Gardner,Kaify,PCI Express 2.0 2DVI
+88,12/06/2011,15/06/2011,"898,44",354,4,"247,92","61,98",Maria  Yang,Kaify,ATX Motherboard
+86,08/06/2011,14/06/2011,"779,25",348,3,"600,6","200,2",Emili  Mcdonald,Truing Tecnologia,PCI Express 2.0 2DVI
+72,17/05/2011,19/05/2011,"947,35",298,3,117,39,Aladdin  Blackwell,Truing Tecnologia,USB Portable Sound Card / Dac
+75,25/05/2011,26/05/2011,"11342,3",309,4,"199,96","49,99",Benedito  Perry,Tadoo,Inch Midtower Case
+52,07/04/2011,13/04/2011,"11342,3",225,4,1596,399,Emili  Mcdonald,Mecabox Info,i7-2700K 3.5 GHz LGA 1155 Processor
+177,23/11/2011,26/11/2011,"1380,78",679,18,7182,399,José  Gardner,Agilvee,i7-2700K 3.5 GHz LGA 1155 Processor
+67,05/05/2011,09/05/2011,"1254,71",280,18,"899,82","49,99",Maria  Yang,Kaify,Inch Midtower Case
+93,18/06/2011,24/06/2011,"110,04",378,6,"299,94","49,99",Emili  Mcdonald,Kaify,Inch Midtower Case
+41,27/03/2011,29/03/2011,"747,47",190,2,798,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+1,06/01/2011,07/01/2011,"5141,67",3,15,3003,"200,2",Benedito  Perry,Kaify,PCI Express 2.0 2DVI
+46,02/04/2011,05/04/2011,"5141,67",210,15,585,39,José  Gardner,Truing Tecnologia,USB Portable Sound Card / Dac
+155,23/10/2011,24/10/2011,"463,21",609,5,"44,95","8,99",Maria  Yang,Truing Tecnologia,Cooler Master Red LED Case Fan
+81,02/06/2011,04/06/2011,"463,21",333,5,1001,"200,2",José  Gardner,Triloo Assistência Técnica,PCI Express 2.0 2DVI
+96,23/06/2011,27/06/2011,"2662,46",385,1,"200,2","200,2",Maria  Yang,Spoint Sistemas de Informação,PCI Express 2.0 2DVI
+134,01/09/2011,04/09/2011,"3584,46",531,1,39,39,Emili  Mcdonald,Tadoo,USB Portable Sound Card / Dac
+142,21/09/2011,22/09/2011,"2151,09",563,1,"49,99","49,99",José  Gardner,Digister,Inch Midtower Case
+28,03/03/2011,06/03/2011,"318,67",142,1,"61,98","61,98",Emili  Mcdonald,Mecabox Info,ATX Motherboard
+168,03/11/2011,05/11/2011,"3830,29",653,3,117,39,Emili  Mcdonald,Truing Tecnologia,USB Portable Sound Card / Dac
+30,08/03/2011,14/03/2011,"2676,91",147,3,117,39,Aladdin  Blackwell,Kaify,USB Portable Sound Card / Dac
+46,02/04/2011,05/04/2011,"5141,67",211,2,"17,98","8,99",José  Gardner,Kaify,Cooler Master Red LED Case Fan
+1,06/01/2011,07/01/2011,"5141,67",4,2,78,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+138,14/09/2011,20/09/2011,"1897,76",548,2,78,39,Maria  Yang,Truing Tecnologia,USB Portable Sound Card / Dac
+80,01/06/2011,02/06/2011,"1981,46",331,2,78,39,Emili  Mcdonald,Truing Tecnologia,USB Portable Sound Card / Dac
+32,14/03/2011,16/03/2011,"1005,44",153,1,399,399,Benedito  Perry,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+139,18/09/2011,19/09/2011,"2753,41",551,1,39,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+180,29/11/2011,03/12/2011,"1806,03",690,4,156,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+73,21/05/2011,23/05/2011,"2748,85",305,4,1596,399,Emili  Mcdonald,Agilvee,i7-2700K 3.5 GHz LGA 1155 Processor
+142,21/09/2011,22/09/2011,"2151,09",562,2,"1499,98","749,99",Maria  Yang,Agilvee,GeForce GTX 590 Classified
+134,01/09/2011,04/09/2011,"3584,46",530,2,"123,96","61,98",José  Gardner,Spoint Sistemas de Informação,ATX Motherboard
+75,25/05/2011,26/05/2011,"11342,3",310,3,"149,97","49,99",Maria  Yang,Digister,Inch Midtower Case
+3,15/01/2011,18/01/2011,14228,18,2,78,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+52,07/04/2011,13/04/2011,"11342,3",226,3,"185,94","61,98",José  Gardner,Truing Tecnologia,ATX Motherboard
+147,04/10/2011,07/10/2011,"799,91",581,2,"123,96","61,98",José  Gardner,Kaify,ATX Motherboard
+30,08/03/2011,14/03/2011,"2676,91",145,4,"35,96","8,99",Aladdin  Blackwell,Kaify,Cooler Master Red LED Case Fan
+168,03/11/2011,05/11/2011,"3830,29",651,4,"199,96","49,99",José  Gardner,Kaify,Inch Midtower Case
+7,24/01/2011,27/01/2011,"2581,4",44,2,78,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+96,23/06/2011,27/06/2011,"2662,46",386,3,"185,94","61,98",Maria  Yang,Kaify,ATX Motherboard
+19,17/02/2011,23/02/2011,"930,47",107,1,"749,99","749,99",Emili  Mcdonald,Truing Tecnologia,GeForce GTX 590 Classified
+126,09/08/2011,10/08/2011,"1172,03",505,2,"123,96","61,98",Emili  Mcdonald,Truing Tecnologia,ATX Motherboard
+36,16/03/2011,17/03/2011,"2472,45",171,2,798,399,Emili  Mcdonald,Roozio Informática,i7-2700K 3.5 GHz LGA 1155 Processor
+117,24/07/2011,25/07/2011,"794,96",476,1,"8,99","8,99",Maria  Yang,Digister,Cooler Master Red LED Case Fan
+13,04/02/2011,07/02/2011,"2755,68",71,2,"123,96","61,98",José  Gardner,Agilvee,ATX Motherboard
+15,07/02/2011,11/02/2011,"2472,45",87,2,798,399,Emili  Mcdonald,Triloo Assistência Técnica,i7-2700K 3.5 GHz LGA 1155 Processor
+41,27/03/2011,29/03/2011,"747,47",189,1,"8,99","8,99",Emili  Mcdonald,Tadoo,Cooler Master Red LED Case Fan
+99,29/06/2011,01/07/2011,"2472,45",400,2,798,399,Aladdin  Blackwell,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+170,05/11/2011,08/11/2011,"2604,61",658,9,"557,82","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+76,28/05/2011,31/05/2011,"2984,6",318,9,3591,399,Emili  Mcdonald,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+24,26/02/2011,27/02/2011,"2352,58",126,7,"1401,4","200,2",Maria  Yang,Truing Tecnologia,PCI Express 2.0 2DVI
+66,04/05/2011,05/05/2011,"748,43",274,2,"99,98","49,99",Maria  Yang,Digister,Inch Midtower Case
+150,07/10/2011,09/10/2011,"2363,57",591,2,"1499,98","749,99",Aladdin  Blackwell,Kaify,GeForce GTX 590 Classified
+88,12/06/2011,15/06/2011,"898,44",358,1,"8,99","8,99",José  Gardner,Digister,Cooler Master Red LED Case Fan
+9,29/01/2011,31/01/2011,"253,26",53,5,"44,95","8,99",José  Gardner,Kaify,Cooler Master Red LED Case Fan
+148,04/10/2011,10/10/2011,"2147,47",582,1,"49,99","49,99",Maria  Yang,Kaify,Inch Midtower Case
+150,07/10/2011,09/10/2011,"2363,57",593,5,1995,399,Maria  Yang,Triloo Assistência Técnica,i7-2700K 3.5 GHz LGA 1155 Processor
+7,24/01/2011,27/01/2011,"2581,4",45,1,"49,99","49,99",José  Gardner,Truing Tecnologia,Inch Midtower Case
+19,17/02/2011,23/02/2011,"930,47",109,2,"123,96","61,98",Maria  Yang,Kaify,ATX Motherboard
+91,15/06/2011,18/06/2011,"3135,46",372,2,"1499,98","749,99",Emili  Mcdonald,Roozio Informática,GeForce GTX 590 Classified
+34,15/03/2011,18/03/2011,"574,92",161,2,"123,96","61,98",Benedito  Perry,Digister,ATX Motherboard
+58,15/04/2011,16/04/2011,"1965,82",250,6,"299,94","49,99",José  Gardner,Truing Tecnologia,Inch Midtower Case
+109,13/07/2011,16/07/2011,"3586,51",441,1,"8,99","8,99",Emili  Mcdonald,Truing Tecnologia,Cooler Master Red LED Case Fan
+27,03/03/2011,05/03/2011,"657,93",138,1,"49,99","49,99",José  Gardner,Kaify,Inch Midtower Case
+158,25/10/2011,27/10/2011,"775,93",619,1,"749,99","749,99",Maria  Yang,Agilvee,GeForce GTX 590 Classified
+169,04/11/2011,07/11/2011,"409,83",654,2,"1499,98","749,99",José  Gardner,Digister,GeForce GTX 590 Classified
+30,08/03/2011,14/03/2011,"2676,91",148,2,"400,4","200,2",Emili  Mcdonald,Roozio Informática,PCI Express 2.0 2DVI
+36,16/03/2011,17/03/2011,"2472,45",170,1,"61,98","61,98",Maria  Yang,Levester Tecnologia,ATX Motherboard
+119,28/07/2011,29/07/2011,"347,14",478,1,"200,2","200,2",Maria  Yang,Kaify,PCI Express 2.0 2DVI
+41,27/03/2011,29/03/2011,"747,47",192,1,"749,99","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+4,16/01/2011,19/01/2011,"1478,64",28,1,"49,99","49,99",José  Gardner,Kaify,Inch Midtower Case
+15,07/02/2011,11/02/2011,"2472,45",86,1,"200,2","200,2",Emili  Mcdonald,Truing Tecnologia,PCI Express 2.0 2DVI
+99,29/06/2011,01/07/2011,"2472,45",399,1,"200,2","200,2",Maria  Yang,Truing Tecnologia,PCI Express 2.0 2DVI
+104,06/07/2011,10/07/2011,"1784,97",420,1,39,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+136,02/09/2011,03/09/2011,"1313,19",542,5,1001,"200,2",Aladdin  Blackwell,Roozio Informática,PCI Express 2.0 2DVI
+80,01/06/2011,02/06/2011,"1981,46",330,5,"3749,95","749,99",Maria  Yang,Triloo Assistência Técnica,GeForce GTX 590 Classified
+71,13/05/2011,19/05/2011,"1044,58",296,2,"17,98","8,99",Maria  Yang,Digister,Cooler Master Red LED Case Fan
+152,11/10/2011,13/10/2011,"493,14",601,3,"600,6","200,2",José  Gardner,Kaify,PCI Express 2.0 2DVI
+14,05/02/2011,09/02/2011,"3917,35",76,5,195,39,José  Gardner,Truing Tecnologia,USB Portable Sound Card / Dac
+160,27/10/2011,28/10/2011,"524,21",625,5,195,39,José  Gardner,Digister,USB Portable Sound Card / Dac
+57,11/04/2011,15/04/2011,"472,94",246,3,117,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+35,16/03/2011,17/03/2011,"339,32",164,20,780,39,Benedito  Perry,Truing Tecnologia,USB Portable Sound Card / Dac
+116,24/07/2011,26/07/2011,"1428,13",469,20,"179,8","8,99",Maria  Yang,Roozio Informática,Cooler Master Red LED Case Fan
+154,23/10/2011,24/10/2011,"149,85",607,15,"749,85","49,99",Benedito  Perry,Truing Tecnologia,Inch Midtower Case
+24,26/02/2011,27/02/2011,"2352,58",124,15,"929,7","61,98",Maria  Yang,Truing Tecnologia,ATX Motherboard
+112,16/07/2011,19/07/2011,"1833,56",451,19,7581,399,José  Gardner,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+9,29/01/2011,31/01/2011,"253,26",52,21,"15749,79","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+141,20/09/2011,22/09/2011,"1833,56",555,19,"14249,81","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+178,25/11/2011,01/12/2011,"2646,8",682,19,741,39,Emili  Mcdonald,Truing Tecnologia,USB Portable Sound Card / Dac
+78,30/05/2011,02/06/2011,"1833,56",324,19,"949,81","49,99",Emili  Mcdonald,Mecabox Info,Inch Midtower Case
+69,09/05/2011,11/05/2011,"2519,07",284,10,"499,9","49,99",José  Gardner,Levester Tecnologia,Inch Midtower Case
+136,02/09/2011,03/09/2011,"1313,19",539,21,"15749,79","749,99",Maria  Yang,Tadoo,GeForce GTX 590 Classified
+181,30/11/2011,03/12/2011,"1938,09",694,10,"499,9","49,99",Aladdin  Blackwell,Truing Tecnologia,Inch Midtower Case
+37,16/03/2011,19/03/2011,"462,71",178,5,195,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+122,03/08/2011,06/08/2011,"2594,5",492,5,195,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+26,01/03/2011,03/03/2011,"2399,8",136,2,"1499,98","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+167,03/11/2011,06/11/2011,"445,37",645,2,"17,98","8,99",Maria  Yang,Kaify,Cooler Master Red LED Case Fan
+105,08/07/2011,09/07/2011,"3850,79",428,1,"49,99","49,99",José  Gardner,Truing Tecnologia,Inch Midtower Case
+106,08/07/2011,12/07/2011,"3850,79",434,1,"49,99","49,99",Benedito  Perry,Truing Tecnologia,Inch Midtower Case
+114,21/07/2011,25/07/2011,"1096,95",463,3,"149,97","49,99",Maria  Yang,Triloo Assistência Técnica,Inch Midtower Case
+3,15/01/2011,18/01/2011,14228,19,2,"400,4","200,2",Emili  Mcdonald,Kaify,PCI Express 2.0 2DVI
+183,04/12/2011,07/12/2011,"277,98",701,2,78,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+24,26/02/2011,27/02/2011,"2352,58",125,3,1197,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+186,10/12/2011,13/12/2011,"1964,58",709,1,399,399,Maria  Yang,Spoint Sistemas de Informação,i7-2700K 3.5 GHz LGA 1155 Processor
+48,04/04/2011,05/04/2011,"729,61",216,1,"49,99","49,99",Maria  Yang,Kaify,Inch Midtower Case
+181,30/11/2011,03/12/2011,"1938,09",695,1,"49,99","49,99",Maria  Yang,Mecabox Info,Inch Midtower Case
+69,09/05/2011,11/05/2011,"2519,07",285,1,"200,2","200,2",Emili  Mcdonald,Roozio Informática,PCI Express 2.0 2DVI
+166,03/11/2011,06/11/2011,"1493,71",641,1,"8,99","8,99",Emili  Mcdonald,Kaify,Cooler Master Red LED Case Fan
+173,12/11/2011,13/11/2011,"612,9",663,1,"49,99","49,99",Emili  Mcdonald,Digister,Inch Midtower Case
+112,16/07/2011,19/07/2011,"1833,56",452,2,"1499,98","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+97,27/06/2011,29/06/2011,"1597,55",391,1,39,39,José  Gardner,Spoint Sistemas de Informação,USB Portable Sound Card / Dac
+78,30/05/2011,02/06/2011,"1833,56",325,2,"17,98","8,99",Maria  Yang,Agilvee,Cooler Master Red LED Case Fan
+51,06/04/2011,07/04/2011,"865,16",221,1,"200,2","200,2",Emili  Mcdonald,Kaify,PCI Express 2.0 2DVI
+178,25/11/2011,01/12/2011,"2646,8",683,2,"99,98","49,99",Benedito  Perry,Kaify,Inch Midtower Case
+141,20/09/2011,22/09/2011,"1833,56",556,2,"99,98","49,99",José  Gardner,Kaify,Inch Midtower Case
+20,18/02/2011,19/02/2011,"1664,54",113,2,"123,96","61,98",José  Gardner,Truing Tecnologia,ATX Motherboard
+113,19/07/2011,20/07/2011,"3784,84",456,2,"99,98","49,99",Emili  Mcdonald,Spoint Sistemas de Informação,Inch Midtower Case
+70,12/05/2011,15/05/2011,"1380,09",292,3,1197,399,Aladdin  Blackwell,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+189,17/12/2011,18/12/2011,"1622,8",722,2,"99,98","49,99",Maria  Yang,Digister,Inch Midtower Case
+14,05/02/2011,09/02/2011,"3917,35",81,1,399,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+75,25/05/2011,26/05/2011,"11342,3",314,2,798,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+52,07/04/2011,13/04/2011,"11342,3",230,2,"1499,98","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+76,28/05/2011,31/05/2011,"2984,6",316,3,"2249,97","749,99",Emili  Mcdonald,Truing Tecnologia,GeForce GTX 590 Classified
+107,11/07/2011,17/07/2011,"3056,08",439,1,399,399,Maria  Yang,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+170,05/11/2011,08/11/2011,"2604,61",656,3,"26,97","8,99",Maria  Yang,Mecabox Info,Cooler Master Red LED Case Fan
+11,30/01/2011,03/02/2011,"943,08",57,1,399,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+122,03/08/2011,06/08/2011,"2594,5",490,2,"400,4","200,2",Benedito  Perry,Kaify,PCI Express 2.0 2DVI
+16,11/02/2011,14/02/2011,"2464,39",93,2,"400,4","200,2",Emili  Mcdonald,Spoint Sistemas de Informação,PCI Express 2.0 2DVI
+92,17/06/2011,18/06/2011,"899,69",373,2,"123,96","61,98",José  Gardner,Kaify,ATX Motherboard
+36,16/03/2011,17/03/2011,"2472,45",176,1,399,399,Maria  Yang,Triloo Assistência Técnica,i7-2700K 3.5 GHz LGA 1155 Processor
+15,07/02/2011,11/02/2011,"2472,45",92,1,"749,99","749,99",Aladdin  Blackwell,Digister,GeForce GTX 590 Classified
+34,15/03/2011,18/03/2011,"574,92",162,2,"123,96","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+160,27/10/2011,28/10/2011,"524,21",623,1,"749,99","749,99",José  Gardner,Kaify,GeForce GTX 590 Classified
+99,29/06/2011,01/07/2011,"2472,45",405,1,"61,98","61,98",Maria  Yang,Spoint Sistemas de Informação,ATX Motherboard
+55,09/04/2011,11/04/2011,"566,09",241,1,39,39,Maria  Yang,Truing Tecnologia,USB Portable Sound Card / Dac
+122,03/08/2011,06/08/2011,"2594,5",485,2,"400,4","200,2",Maria  Yang,Truing Tecnologia,PCI Express 2.0 2DVI
+83,03/06/2011,05/06/2011,"420,91",340,2,"1499,98","749,99",José  Gardner,Kaify,GeForce GTX 590 Classified
+163,28/10/2011,03/11/2011,"222,96",631,1,"8,99","8,99",Maria  Yang,Tadoo,Cooler Master Red LED Case Fan
+179,27/11/2011,29/11/2011,"517,89",688,2,78,39,Emili  Mcdonald,Levester Tecnologia,USB Portable Sound Card / Dac
+39,25/03/2011,27/03/2011,"647,89",186,2,798,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+94,18/06/2011,21/06/2011,"541,46",382,1,"749,99","749,99",José  Gardner,Triloo Assistência Técnica,GeForce GTX 590 Classified
+11,30/01/2011,03/02/2011,"943,08",59,2,"99,98","49,99",Emili  Mcdonald,Digister,Inch Midtower Case
+111,14/07/2011,20/07/2011,"429,95",449,2,78,39,Aladdin  Blackwell,Tadoo,USB Portable Sound Card / Dac
+6,17/01/2011,18/01/2011,"4784,35",40,1,"61,98","61,98",Maria  Yang,Kaify,ATX Motherboard
+179,27/11/2011,29/11/2011,"517,89",687,1,"8,99","8,99",Benedito  Perry,Kaify,Cooler Master Red LED Case Fan
+188,17/12/2011,18/12/2011,"427,82",718,3,"185,94","61,98",Maria  Yang,Kaify,ATX Motherboard
+175,18/11/2011,22/11/2011,"427,82",670,3,"2249,97","749,99",Emili  Mcdonald,Mecabox Info,GeForce GTX 590 Classified
+69,09/05/2011,11/05/2011,"2519,07",283,1,"49,99","49,99",Maria  Yang,Mecabox Info,Inch Midtower Case
+180,29/11/2011,03/12/2011,"1806,03",693,1,"61,98","61,98",Emili  Mcdonald,Truing Tecnologia,ATX Motherboard
+150,07/10/2011,09/10/2011,"2363,57",589,3,"149,97","49,99",Aladdin  Blackwell,Kaify,Inch Midtower Case
+94,18/06/2011,21/06/2011,"541,46",379,3,1197,399,José  Gardner,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+12,04/02/2011,07/02/2011,"786,42",64,3,"149,97","49,99",José  Gardner,Kaify,Inch Midtower Case
+97,27/06/2011,29/06/2011,"1597,55",390,2,"400,4","200,2",Emili  Mcdonald,Truing Tecnologia,PCI Express 2.0 2DVI
+50,05/04/2011,07/04/2011,"574,66",220,2,"123,96","61,98",Emili  Mcdonald,Truing Tecnologia,ATX Motherboard
+71,13/05/2011,19/05/2011,"1044,58",294,4,"35,96","8,99",José  Gardner,Truing Tecnologia,Cooler Master Red LED Case Fan
+151,10/10/2011,12/10/2011,"1282,36",597,2,"400,4","200,2",Maria  Yang,Tadoo,PCI Express 2.0 2DVI
+12,04/02/2011,07/02/2011,"786,42",62,2,798,399,Emili  Mcdonald,Mecabox Info,i7-2700K 3.5 GHz LGA 1155 Processor
+128,14/08/2011,15/08/2011,"641,97",513,2,"400,4","200,2",Maria  Yang,Mecabox Info,PCI Express 2.0 2DVI
+76,28/05/2011,31/05/2011,"2984,6",319,2,"1499,98","749,99",Benedito  Perry,Roozio Informática,GeForce GTX 590 Classified
+45,01/04/2011,04/04/2011,"829,18",207,2,"17,98","8,99",Maria  Yang,Agilvee,Cooler Master Red LED Case Fan
+170,05/11/2011,08/11/2011,"2604,61",659,2,78,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+88,12/06/2011,15/06/2011,"898,44",355,2,"400,4","200,2",Maria  Yang,Truing Tecnologia,PCI Express 2.0 2DVI
+164,29/10/2011,02/11/2011,"693,48",635,3,"600,6","200,2",Aladdin  Blackwell,Truing Tecnologia,PCI Express 2.0 2DVI
+18,14/02/2011,16/02/2011,"774,97",103,3,"600,6","200,2",Maria  Yang,Kaify,PCI Express 2.0 2DVI
+70,12/05/2011,15/05/2011,"1380,09",290,4,"247,92","61,98",José  Gardner,Kaify,ATX Motherboard
+133,31/08/2011,02/09/2011,"1119,96",527,4,1596,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+62,24/04/2011,26/04/2011,"279,99",262,1,"8,99","8,99",Maria  Yang,Digister,Cooler Master Red LED Case Fan
+3,15/01/2011,18/01/2011,14228,15,4,"800,8","200,2",Emili  Mcdonald,Digister,PCI Express 2.0 2DVI
+180,29/11/2011,03/12/2011,"1806,03",691,5,"3749,95","749,99",Emili  Mcdonald,Tadoo,GeForce GTX 590 Classified
+74,23/05/2011,29/05/2011,"375,15",306,5,"309,9","61,98",Aladdin  Blackwell,Mecabox Info,ATX Motherboard
+61,23/04/2011,26/04/2011,"986,3",260,2,"17,98","8,99",José  Gardner,Kaify,Cooler Master Red LED Case Fan
+30,08/03/2011,14/03/2011,"2676,91",146,3,1197,399,Benedito  Perry,Mecabox Info,i7-2700K 3.5 GHz LGA 1155 Processor
+168,03/11/2011,05/11/2011,"3830,29",652,3,"26,97","8,99",Maria  Yang,Truing Tecnologia,Cooler Master Red LED Case Fan
+53,08/04/2011,10/04/2011,"1354,55",233,1,"49,99","49,99",Maria  Yang,Truing Tecnologia,Inch Midtower Case
+2,11/01/2011,12/01/2011,"2434,29",5,1,"61,98","61,98",Emili  Mcdonald,Truing Tecnologia,ATX Motherboard
+102,05/07/2011,08/07/2011,"339,99",415,1,"61,98","61,98",José  Gardner,Kaify,ATX Motherboard
+23,26/02/2011,28/02/2011,"2328,94",121,1,"61,98","61,98",Maria  Yang,Kaify,ATX Motherboard
+131,29/08/2011,30/08/2011,"1433,13",522,2,"1499,98","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+113,19/07/2011,20/07/2011,"3784,84",461,1,"49,99","49,99",Maria  Yang,Tadoo,Inch Midtower Case
+13,04/02/2011,07/02/2011,"2755,68",67,1,39,39,Maria  Yang,Spoint Sistemas de Informação,USB Portable Sound Card / Dac
+17,14/02/2011,20/02/2011,"380,32",97,1,"8,99","8,99",Maria  Yang,Spoint Sistemas de Informação,Cooler Master Red LED Case Fan
+101,04/07/2011,05/07/2011,"2717,09",413,1,"749,99","749,99",Emili  Mcdonald,Truing Tecnologia,GeForce GTX 590 Classified
+67,05/05/2011,09/05/2011,"1254,71",278,1,39,39,Emili  Mcdonald,Roozio Informática,USB Portable Sound Card / Dac
+168,03/11/2011,05/11/2011,"3830,29",649,1,"61,98","61,98",Maria  Yang,Kaify,ATX Motherboard
+32,14/03/2011,16/03/2011,"1005,44",154,2,78,39,Emili  Mcdonald,Spoint Sistemas de Informação,USB Portable Sound Card / Dac
+48,04/04/2011,05/04/2011,"729,61",217,1,"49,99","49,99",Emili  Mcdonald,Roozio Informática,Inch Midtower Case
+176,22/11/2011,25/11/2011,"570,16",676,2,"17,98","8,99",Aladdin  Blackwell,Kaify,Cooler Master Red LED Case Fan
+61,23/04/2011,26/04/2011,"986,3",261,4,"199,96","49,99",Emili  Mcdonald,Kaify,Inch Midtower Case
+43,31/03/2011,01/04/2011,"1148,41",196,2,"400,4","200,2",Benedito  Perry,Truing Tecnologia,PCI Express 2.0 2DVI
+135,02/09/2011,08/09/2011,"1763,14",534,2,798,399,Maria  Yang,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+104,06/07/2011,10/07/2011,"1784,97",423,1,"8,99","8,99",Emili  Mcdonald,Mecabox Info,Cooler Master Red LED Case Fan
+5,16/01/2011,19/01/2011,"410,38",31,1,"61,98","61,98",Emili  Mcdonald,Digister,ATX Motherboard
+96,23/06/2011,27/06/2011,"2662,46",387,4,"2999,96","749,99",Emili  Mcdonald,Mecabox Info,GeForce GTX 590 Classified
+85,07/06/2011,09/06/2011,"1547,97",344,1,399,399,José  Gardner,Agilvee,i7-2700K 3.5 GHz LGA 1155 Processor
+139,18/09/2011,19/09/2011,"2753,41",552,4,"247,92","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+21,22/02/2011,23/02/2011,"2668,66",117,4,"2999,96","749,99",Aladdin  Blackwell,Tadoo,GeForce GTX 590 Classified
+6,17/01/2011,18/01/2011,"4784,35",36,1,"200,2","200,2",José  Gardner,Kaify,PCI Express 2.0 2DVI
+36,16/03/2011,17/03/2011,"2472,45",175,1,"61,98","61,98",Maria  Yang,Kaify,ATX Motherboard
+15,07/02/2011,11/02/2011,"2472,45",91,1,399,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+159,25/10/2011,31/10/2011,"356,37",622,1,"61,98","61,98",Maria  Yang,Tadoo,ATX Motherboard
+99,29/06/2011,01/07/2011,"2472,45",404,1,"8,99","8,99",Emili  Mcdonald,Digister,Cooler Master Red LED Case Fan
+148,04/10/2011,10/10/2011,"2147,47",585,2,"99,98","49,99",Aladdin  Blackwell,Kaify,Inch Midtower Case
+66,04/05/2011,05/05/2011,"748,43",276,2,78,39,Emili  Mcdonald,Triloo Assistência Técnica,USB Portable Sound Card / Dac
+168,03/11/2011,05/11/2011,"3830,29",647,2,798,399,Maria  Yang,Agilvee,i7-2700K 3.5 GHz LGA 1155 Processor
+127,10/08/2011,13/08/2011,"3598,78",507,1,"749,99","749,99",José  Gardner,Truing Tecnologia,GeForce GTX 590 Classified
+60,19/04/2011,23/04/2011,"1239,84",253,2,78,39,Maria  Yang,Levester Tecnologia,USB Portable Sound Card / Dac
+21,22/02/2011,23/02/2011,"2668,66",118,1,"200,2","200,2",Emili  Mcdonald,Kaify,PCI Express 2.0 2DVI
+122,03/08/2011,06/08/2011,"2594,5",489,2,798,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+26,01/03/2011,03/03/2011,"2399,8",132,2,"123,96","61,98",Benedito  Perry,Kaify,ATX Motherboard
+177,23/11/2011,26/11/2011,"1380,78",678,2,798,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+33,14/03/2011,17/03/2011,"3962,28",156,2,"1499,98","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+119,28/07/2011,29/07/2011,"347,14",480,2,"400,4","200,2",José  Gardner,Truing Tecnologia,PCI Express 2.0 2DVI
+42,31/03/2011,01/04/2011,"266,48",194,2,"1499,98","749,99",Aladdin  Blackwell,Truing Tecnologia,GeForce GTX 590 Classified
+175,18/11/2011,22/11/2011,"427,82",668,2,"400,4","200,2",Emili  Mcdonald,Tadoo,PCI Express 2.0 2DVI
+131,29/08/2011,30/08/2011,"1433,13",521,3,"149,97","49,99",Maria  Yang,Levester Tecnologia,Inch Midtower Case
+188,17/12/2011,18/12/2011,"427,82",716,2,"123,96","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+190,18/12/2011,19/12/2011,"7001,06",725,2,"99,98","49,99",José  Gardner,Truing Tecnologia,Inch Midtower Case
+3,15/01/2011,18/01/2011,14228,11,2,798,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+106,08/07/2011,12/07/2011,"3850,79",433,1,"749,99","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+49,05/04/2011,11/04/2011,"409,2",218,1,39,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+105,08/07/2011,09/07/2011,"3850,79",427,1,"8,99","8,99",José  Gardner,Kaify,Cooler Master Red LED Case Fan
+56,10/04/2011,14/04/2011,"1159,19",242,1,"61,98","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+97,27/06/2011,29/06/2011,"1597,55",388,1,399,399,José  Gardner,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+185,08/12/2011,11/12/2011,"1570,57",704,1,39,39,José  Gardner,Tadoo,USB Portable Sound Card / Dac
+37,16/03/2011,19/03/2011,"462,71",179,2,798,399,Emili  Mcdonald,Spoint Sistemas de Informação,i7-2700K 3.5 GHz LGA 1155 Processor
+123,04/08/2011,07/08/2011,"187,88",493,2,798,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+167,03/11/2011,06/11/2011,"445,37",644,8,"1601,6","200,2",José  Gardner,Kaify,PCI Express 2.0 2DVI
+127,10/08/2011,13/08/2011,"3598,78",509,10,390,39,Maria  Yang,Tadoo,USB Portable Sound Card / Dac
+63,26/04/2011,02/05/2011,"3727,53",265,8,"1601,6","200,2",Emili  Mcdonald,Tadoo,PCI Express 2.0 2DVI
+77,28/05/2011,29/05/2011,"370,48",321,4,"35,96","8,99",Maria  Yang,Mecabox Info,Cooler Master Red LED Case Fan
+58,15/04/2011,16/04/2011,"1965,82",249,9,"449,91","49,99",Emili  Mcdonald,Triloo Assistência Técnica,Inch Midtower Case
+86,08/06/2011,14/06/2011,"779,25",351,4,"2999,96","749,99",Emili  Mcdonald,Mecabox Info,GeForce GTX 590 Classified
+125,05/08/2011,09/08/2011,"435,92",501,4,156,39,Emili  Mcdonald,Agilvee,USB Portable Sound Card / Dac
+137,06/09/2011,07/09/2011,"947,35",546,4,1596,399,José  Gardner,Mecabox Info,i7-2700K 3.5 GHz LGA 1155 Processor
+72,17/05/2011,19/05/2011,"947,35",301,4,"247,92","61,98",Maria  Yang,Kaify,ATX Motherboard
+99,29/06/2011,01/07/2011,"2472,45",403,1,399,399,Emili  Mcdonald,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+36,16/03/2011,17/03/2011,"2472,45",174,1,"200,2","200,2",Maria  Yang,Truing Tecnologia,PCI Express 2.0 2DVI
+153,22/10/2011,25/10/2011,"492,74",605,1,"200,2","200,2",Benedito  Perry,Kaify,PCI Express 2.0 2DVI
+15,07/02/2011,11/02/2011,"2472,45",90,1,"49,99","49,99",José  Gardner,Tadoo,Inch Midtower Case
+178,25/11/2011,01/12/2011,"2646,8",681,12,4788,399,José  Gardner,Roozio Informática,i7-2700K 3.5 GHz LGA 1155 Processor
+68,07/05/2011,10/05/2011,1593,282,12,"107,88","8,99",José  Gardner,Tadoo,Cooler Master Red LED Case Fan
+104,06/07/2011,10/07/2011,"1784,97",424,3,"600,6","200,2",Maria  Yang,Kaify,PCI Express 2.0 2DVI
+5,16/01/2011,19/01/2011,"410,38",32,3,117,39,José  Gardner,Levester Tecnologia,USB Portable Sound Card / Dac
+45,01/04/2011,04/04/2011,"829,18",204,4,"35,96","8,99",José  Gardner,Kaify,Cooler Master Red LED Case Fan
+121,31/07/2011,01/08/2011,"174,93",484,7,"5249,93","749,99",José  Gardner,Kaify,GeForce GTX 590 Classified
+83,03/06/2011,05/06/2011,"420,91",339,7,2793,399,José  Gardner,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+73,21/05/2011,23/05/2011,"2748,85",304,12,"599,88","49,99",Aladdin  Blackwell,Kaify,Inch Midtower Case
+187,13/12/2011,16/12/2011,"5279,06",712,12,"8999,88","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+178,25/11/2011,01/12/2011,"2646,8",685,2,"99,98","49,99",Maria  Yang,Spoint Sistemas de Informação,Inch Midtower Case
+173,12/11/2011,13/11/2011,"612,9",664,3,"149,97","49,99",José  Gardner,Levester Tecnologia,Inch Midtower Case
+94,18/06/2011,21/06/2011,"541,46",380,1,"8,99","8,99",Maria  Yang,Spoint Sistemas de Informação,Cooler Master Red LED Case Fan
+109,13/07/2011,16/07/2011,"3586,51",442,2,"400,4","200,2",Emili  Mcdonald,Agilvee,PCI Express 2.0 2DVI
+101,04/07/2011,05/07/2011,"2717,09",411,4,"247,92","61,98",Maria  Yang,Spoint Sistemas de Informação,ATX Motherboard
+12,04/02/2011,07/02/2011,"786,42",65,1,"749,99","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+158,25/10/2011,27/10/2011,"775,93",620,2,"400,4","200,2",Maria  Yang,Kaify,PCI Express 2.0 2DVI
+27,03/03/2011,05/03/2011,"657,93",139,2,"400,4","200,2",Emili  Mcdonald,Kaify,PCI Express 2.0 2DVI
+87,12/06/2011,14/06/2011,"83,8",353,4,"35,96","8,99",Maria  Yang,Kaify,Cooler Master Red LED Case Fan
+119,28/07/2011,29/07/2011,"347,14",481,2,"17,98","8,99",Emili  Mcdonald,Truing Tecnologia,Cooler Master Red LED Case Fan
+17,14/02/2011,20/02/2011,"380,32",98,4,"2999,96","749,99",Benedito  Perry,Kaify,GeForce GTX 590 Classified
+28,03/03/2011,06/03/2011,"318,67",140,2,"17,98","8,99",Emili  Mcdonald,Tadoo,Cooler Master Red LED Case Fan
+70,12/05/2011,15/05/2011,"1380,09",291,2,"17,98","8,99",José  Gardner,Roozio Informática,Cooler Master Red LED Case Fan
+63,26/04/2011,02/05/2011,"3727,53",266,5,1995,399,Maria  Yang,Digister,i7-2700K 3.5 GHz LGA 1155 Processor
+97,27/06/2011,29/06/2011,"1597,55",392,5,"44,95","8,99",Maria  Yang,Truing Tecnologia,Cooler Master Red LED Case Fan
+6,17/01/2011,18/01/2011,"4784,35",37,2,"99,98","49,99",José  Gardner,Truing Tecnologia,Inch Midtower Case
+60,19/04/2011,23/04/2011,"1239,84",255,3,"149,97","49,99",José  Gardner,Kaify,Inch Midtower Case
+105,08/07/2011,09/07/2011,"3850,79",430,2,"99,98","49,99",Maria  Yang,Digister,Inch Midtower Case
+149,07/10/2011,09/10/2011,"839,4",587,3,1197,399,Aladdin  Blackwell,Tadoo,i7-2700K 3.5 GHz LGA 1155 Processor
+91,15/06/2011,18/06/2011,"3135,46",368,6,"1201,2","200,2",Emili  Mcdonald,Kaify,PCI Express 2.0 2DVI
+106,08/07/2011,12/07/2011,"3850,79",436,2,798,399,Emili  Mcdonald,Tadoo,i7-2700K 3.5 GHz LGA 1155 Processor
+85,07/06/2011,09/06/2011,"1547,97",345,2,"400,4","200,2",Emili  Mcdonald,Kaify,PCI Express 2.0 2DVI
+33,14/03/2011,17/03/2011,"3962,28",157,6,"299,94","49,99",Emili  Mcdonald,Levester Tecnologia,Inch Midtower Case
+52,07/04/2011,13/04/2011,"11342,3",229,5,195,39,José  Gardner,Spoint Sistemas de Informação,USB Portable Sound Card / Dac
+3,15/01/2011,18/01/2011,14228,12,6,"4499,94","749,99",Maria  Yang,Tadoo,GeForce GTX 590 Classified
+75,25/05/2011,26/05/2011,"11342,3",313,5,"249,95","49,99",Maria  Yang,Tadoo,Inch Midtower Case
+190,18/12/2011,19/12/2011,"7001,06",726,6,"53,94","8,99",Benedito  Perry,Kaify,Cooler Master Red LED Case Fan
+84,05/06/2011,06/06/2011,"1931,09",343,1,39,39,José  Gardner,Kaify,USB Portable Sound Card / Dac
+187,13/12/2011,16/12/2011,"5279,06",715,5,"309,9","61,98",José  Gardner,Kaify,ATX Motherboard
+101,04/07/2011,05/07/2011,"2717,09",414,2,"17,98","8,99",Maria  Yang,Kaify,Cooler Master Red LED Case Fan
+53,08/04/2011,10/04/2011,"1354,55",234,4,"247,92","61,98",Emili  Mcdonald,Roozio Informática,ATX Motherboard
+146,04/10/2011,06/10/2011,"2056,22",576,4,1596,399,Maria  Yang,Spoint Sistemas de Informação,i7-2700K 3.5 GHz LGA 1155 Processor
+6,17/01/2011,18/01/2011,"4784,35",34,4,"247,92","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+88,12/06/2011,15/06/2011,"898,44",356,1,"49,99","49,99",Aladdin  Blackwell,Roozio Informática,Inch Midtower Case
+15,07/02/2011,11/02/2011,"2472,45",89,2,78,39,José  Gardner,Agilvee,USB Portable Sound Card / Dac
+36,16/03/2011,17/03/2011,"2472,45",173,2,"400,4","200,2",Emili  Mcdonald,Kaify,PCI Express 2.0 2DVI
+153,22/10/2011,25/10/2011,"492,74",604,2,"123,96","61,98",Maria  Yang,Kaify,ATX Motherboard
+99,29/06/2011,01/07/2011,"2472,45",402,2,798,399,José  Gardner,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+136,02/09/2011,03/09/2011,"1313,19",541,3,117,39,Emili  Mcdonald,Truing Tecnologia,USB Portable Sound Card / Dac
+190,18/12/2011,19/12/2011,"7001,06",727,4,"35,96","8,99",Maria  Yang,Truing Tecnologia,Cooler Master Red LED Case Fan
+79,01/06/2011,07/06/2011,957,329,3,1197,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+3,15/01/2011,18/01/2011,14228,13,4,"800,8","200,2",José  Gardner,Roozio Informática,PCI Express 2.0 2DVI
+178,25/11/2011,01/12/2011,"2646,8",680,6,2394,399,Emili  Mcdonald,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+68,07/05/2011,10/05/2011,1593,281,6,2394,399,José  Gardner,Triloo Assistência Técnica,i7-2700K 3.5 GHz LGA 1155 Processor
+22,22/02/2011,23/02/2011,"293,28",119,2,798,399,José  Gardner,Levester Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+50,05/04/2011,07/04/2011,"574,66",219,4,"800,8","200,2",Maria  Yang,Digister,PCI Express 2.0 2DVI
+97,27/06/2011,29/06/2011,"1597,55",389,4,"2999,96","749,99",Maria  Yang,Digister,GeForce GTX 590 Classified
+18,14/02/2011,16/02/2011,"774,97",101,4,"800,8","200,2",Emili  Mcdonald,Mecabox Info,PCI Express 2.0 2DVI
+146,04/10/2011,06/10/2011,"2056,22",578,1,"749,99","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+164,29/10/2011,02/11/2011,"693,48",633,4,"247,92","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+37,16/03/2011,19/03/2011,"462,71",180,1,"200,2","200,2",Benedito  Perry,Kaify,PCI Express 2.0 2DVI
+145,30/09/2011,06/10/2011,"975,84",572,4,"35,96","8,99",Emili  Mcdonald,Truing Tecnologia,Cooler Master Red LED Case Fan
+54,08/04/2011,11/04/2011,"3058,98",237,3,"149,97","49,99",Aladdin  Blackwell,Kaify,Inch Midtower Case
+124,05/08/2011,08/08/2011,"1681,68",495,3,"2249,97","749,99",Emili  Mcdonald,Truing Tecnologia,GeForce GTX 590 Classified
+5,16/01/2011,19/01/2011,"410,38",33,2,"1499,98","749,99",Emili  Mcdonald,Agilvee,GeForce GTX 590 Classified
+107,11/07/2011,17/07/2011,"3056,08",437,2,798,399,José  Gardner,Spoint Sistemas de Informação,i7-2700K 3.5 GHz LGA 1155 Processor
+188,17/12/2011,18/12/2011,"427,82",717,1,"61,98","61,98",Maria  Yang,Roozio Informática,ATX Motherboard
+45,01/04/2011,04/04/2011,"829,18",206,2,"1499,98","749,99",José  Gardner,Kaify,GeForce GTX 590 Classified
+175,18/11/2011,22/11/2011,"427,82",669,1,"61,98","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+91,15/06/2011,18/06/2011,"3135,46",369,4,"247,92","61,98",Maria  Yang,Kaify,ATX Motherboard
+58,15/04/2011,16/04/2011,"1965,82",248,3,"2249,97","749,99",José  Gardner,Kaify,GeForce GTX 590 Classified
+11,30/01/2011,03/02/2011,"943,08",58,3,"149,97","49,99",Maria  Yang,Mecabox Info,Inch Midtower Case
+33,14/03/2011,17/03/2011,"3962,28",158,4,"800,8","200,2",Benedito  Perry,Roozio Informática,PCI Express 2.0 2DVI
+4,16/01/2011,19/01/2011,"1478,64",23,1,"749,99","749,99",Maria  Yang,Truing Tecnologia,GeForce GTX 590 Classified
+113,19/07/2011,20/07/2011,"3784,84",457,2,"400,4","200,2",José  Gardner,Truing Tecnologia,PCI Express 2.0 2DVI
+20,18/02/2011,19/02/2011,"1664,54",114,2,78,39,Emili  Mcdonald,Digister,USB Portable Sound Card / Dac
+122,03/08/2011,06/08/2011,"2594,5",486,1,"61,98","61,98",Maria  Yang,Roozio Informática,ATX Motherboard
+67,05/05/2011,09/05/2011,"1254,71",279,4,156,39,Emili  Mcdonald,Mecabox Info,USB Portable Sound Card / Dac
+168,03/11/2011,05/11/2011,"3830,29",650,4,"800,8","200,2",Emili  Mcdonald,Tadoo,PCI Express 2.0 2DVI
+182,03/12/2011,07/12/2011,"1040,95",700,2,78,39,Emili  Mcdonald,Levester Tecnologia,USB Portable Sound Card / Dac
+116,24/07/2011,26/07/2011,"1428,13",473,1,39,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+31,13/03/2011,14/03/2011,"298,82",150,1,"749,99","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+166,03/11/2011,06/11/2011,"1493,71",642,4,156,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+63,26/04/2011,02/05/2011,"3727,53",263,4,"199,96","49,99",Maria  Yang,Tadoo,Inch Midtower Case
+75,25/05/2011,26/05/2011,"11342,3",308,7,"433,86","61,98",Emili  Mcdonald,Truing Tecnologia,ATX Motherboard
+52,07/04/2011,13/04/2011,"11342,3",224,7,"1401,4","200,2",Emili  Mcdonald,Triloo Assistência Técnica,PCI Express 2.0 2DVI
+53,08/04/2011,10/04/2011,"1354,55",232,3,1197,399,Maria  Yang,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+128,14/08/2011,15/08/2011,"641,97",515,3,"185,94","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+144,25/09/2011,28/09/2011,"761,45",567,3,"149,97","49,99",Emili  Mcdonald,Truing Tecnologia,Inch Midtower Case
+149,07/10/2011,09/10/2011,"839,4",588,2,"17,98","8,99",Aladdin  Blackwell,Kaify,Cooler Master Red LED Case Fan
+141,20/09/2011,22/09/2011,"1833,56",554,3,"2249,97","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+78,30/05/2011,02/06/2011,"1833,56",323,3,"149,97","49,99",Maria  Yang,Tadoo,Inch Midtower Case
+112,16/07/2011,19/07/2011,"1833,56",450,3,"185,94","61,98",José  Gardner,Agilvee,ATX Motherboard
+10,29/01/2011,01/02/2011,"1434,94",56,1,"49,99","49,99",Emili  Mcdonald,Mecabox Info,Inch Midtower Case
+150,07/10/2011,09/10/2011,"2363,57",596,1,"8,99","8,99",Maria  Yang,Kaify,Cooler Master Red LED Case Fan
+92,17/06/2011,18/06/2011,"899,69",375,1,"49,99","49,99",Emili  Mcdonald,Kaify,Inch Midtower Case
+84,05/06/2011,06/06/2011,"1931,09",342,1,"49,99","49,99",Maria  Yang,Kaify,Inch Midtower Case
+28,03/03/2011,06/03/2011,"318,67",141,1,399,399,José  Gardner,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+139,18/09/2011,19/09/2011,"2753,41",549,1,"61,98","61,98",Maria  Yang,Truing Tecnologia,ATX Motherboard
+142,21/09/2011,22/09/2011,"2151,09",565,4,"247,92","61,98",Maria  Yang,Triloo Assistência Técnica,ATX Motherboard
+43,31/03/2011,01/04/2011,"1148,41",195,4,"35,96","8,99",Benedito  Perry,Tadoo,Cooler Master Red LED Case Fan
+134,01/09/2011,04/09/2011,"3584,46",533,4,"800,8","200,2",Maria  Yang,Tadoo,PCI Express 2.0 2DVI
+124,05/08/2011,08/08/2011,"1681,68",496,1,"8,99","8,99",Emili  Mcdonald,Triloo Assistência Técnica,Cooler Master Red LED Case Fan
+131,29/08/2011,30/08/2011,"1433,13",523,1,"8,99","8,99",Maria  Yang,Triloo Assistência Técnica,Cooler Master Red LED Case Fan
+55,09/04/2011,11/04/2011,"566,09",238,1,39,39,José  Gardner,Kaify,USB Portable Sound Card / Dac
+145,30/09/2011,06/10/2011,"975,84",574,1,"200,2","200,2",Emili  Mcdonald,Kaify,PCI Express 2.0 2DVI
+6,17/01/2011,18/01/2011,"4784,35",38,1,"49,99","49,99",José  Gardner,Kaify,Inch Midtower Case
+85,07/06/2011,09/06/2011,"1547,97",346,1,"749,99","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+107,11/07/2011,17/07/2011,"3056,08",438,4,"35,96","8,99",Maria  Yang,Spoint Sistemas de Informação,Cooler Master Red LED Case Fan
+14,05/02/2011,09/02/2011,"3917,35",80,4,"2999,96","749,99",Benedito  Perry,Agilvee,GeForce GTX 590 Classified
+100,02/07/2011,05/07/2011,"2931,73",408,1,"49,99","49,99",Maria  Yang,Tadoo,Inch Midtower Case
+187,13/12/2011,16/12/2011,"5279,06",713,2,"400,4","200,2",José  Gardner,Tadoo,PCI Express 2.0 2DVI
+75,25/05/2011,26/05/2011,"11342,3",311,2,"1499,98","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+64,01/05/2011,04/05/2011,"1357,79",271,1,399,399,Emili  Mcdonald,Mecabox Info,i7-2700K 3.5 GHz LGA 1155 Processor
+52,07/04/2011,13/04/2011,"11342,3",227,2,"17,98","8,99",José  Gardner,Agilvee,Cooler Master Red LED Case Fan
+51,06/04/2011,07/04/2011,"865,16",222,1,"749,99","749,99",José  Gardner,Kaify,GeForce GTX 590 Classified
+144,25/09/2011,28/09/2011,"761,45",570,1,"61,98","61,98",Maria  Yang,Tadoo,ATX Motherboard
+113,19/07/2011,20/07/2011,"3784,84",459,2,798,399,Aladdin  Blackwell,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+21,22/02/2011,23/02/2011,"2668,66",116,2,"1499,98","749,99",Maria  Yang,Tadoo,GeForce GTX 590 Classified
+27,03/03/2011,05/03/2011,"657,93",137,1,"8,99","8,99",Emili  Mcdonald,Triloo Assistência Técnica,Cooler Master Red LED Case Fan
+108,13/07/2011,14/07/2011,"499,99",440,1,"200,2","200,2",José  Gardner,Kaify,PCI Express 2.0 2DVI
+158,25/10/2011,27/10/2011,"775,93",618,1,399,399,Emili  Mcdonald,Tadoo,i7-2700K 3.5 GHz LGA 1155 Processor
+101,04/07/2011,05/07/2011,"2717,09",412,1,"8,99","8,99",Maria  Yang,Agilvee,Cooler Master Red LED Case Fan
+175,18/11/2011,22/11/2011,"427,82",671,2,"123,96","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+188,17/12/2011,18/12/2011,"427,82",719,2,"123,96","61,98",Maria  Yang,Spoint Sistemas de Informação,ATX Motherboard
+82,03/06/2011,04/06/2011,"1163,87",338,1,"8,99","8,99",Maria  Yang,Kaify,Cooler Master Red LED Case Fan
+120,28/07/2011,29/07/2011,"1099,01",483,1,"49,99","49,99",Emili  Mcdonald,Tadoo,Inch Midtower Case
+95,19/06/2011,20/06/2011,"349,99",383,1,"49,99","49,99",Maria  Yang,Spoint Sistemas de Informação,Inch Midtower Case
+13,04/02/2011,07/02/2011,"2755,68",68,1,"8,99","8,99",Maria  Yang,Truing Tecnologia,Cooler Master Red LED Case Fan
+127,10/08/2011,13/08/2011,"3598,78",508,5,1001,"200,2",Emili  Mcdonald,Truing Tecnologia,PCI Express 2.0 2DVI
+113,19/07/2011,20/07/2011,"3784,84",460,1,"49,99","49,99",José  Gardner,Kaify,Inch Midtower Case
+173,12/11/2011,13/11/2011,"612,9",665,1,"8,99","8,99",Emili  Mcdonald,Tadoo,Cooler Master Red LED Case Fan
+22,22/02/2011,23/02/2011,"293,28",120,1,"49,99","49,99",Maria  Yang,Roozio Informática,Inch Midtower Case
+113,19/07/2011,20/07/2011,"3784,84",458,1,"61,98","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+21,22/02/2011,23/02/2011,"2668,66",115,1,39,39,Emili  Mcdonald,Roozio Informática,USB Portable Sound Card / Dac
+127,10/08/2011,13/08/2011,"3598,78",510,6,"4499,94","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+35,16/03/2011,17/03/2011,"339,32",165,4,156,39,Emili  Mcdonald,Truing Tecnologia,USB Portable Sound Card / Dac
+116,24/07/2011,26/07/2011,"1428,13",470,4,1596,399,Maria  Yang,Triloo Assistência Técnica,i7-2700K 3.5 GHz LGA 1155 Processor
+186,10/12/2011,13/12/2011,"1964,58",711,3,"2249,97","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+12,04/02/2011,07/02/2011,"786,42",63,3,"2249,97","749,99",Emili  Mcdonald,Agilvee,GeForce GTX 590 Classified
+73,21/05/2011,23/05/2011,"2748,85",303,3,"185,94","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+168,03/11/2011,05/11/2011,"3830,29",648,1,"749,99","749,99",José  Gardner,Roozio Informática,GeForce GTX 590 Classified
+66,04/05/2011,05/05/2011,"748,43",277,1,399,399,Emili  Mcdonald,Levester Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+77,28/05/2011,29/05/2011,"370,48",322,1,"8,99","8,99",Benedito  Perry,Roozio Informática,Cooler Master Red LED Case Fan
+132,30/08/2011,02/09/2011,"-1991,94",524,3,"149,97","49,99",José  Gardner,Triloo Assistência Técnica,Inch Midtower Case
+61,23/04/2011,26/04/2011,"986,3",257,3,"2249,97","749,99",Maria  Yang,Digister,GeForce GTX 590 Classified
+37,16/03/2011,19/03/2011,"462,71",181,3,1197,399,Maria  Yang,Agilvee,i7-2700K 3.5 GHz LGA 1155 Processor
+81,02/06/2011,04/06/2011,"463,21",332,2,78,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+155,23/10/2011,24/10/2011,"463,21",608,2,"400,4","200,2",Maria  Yang,Kaify,PCI Express 2.0 2DVI
+146,04/10/2011,06/10/2011,"2056,22",579,3,"149,97","49,99",Emili  Mcdonald,Kaify,Inch Midtower Case
+24,26/02/2011,27/02/2011,"2352,58",127,1,"749,99","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+172,07/11/2011,10/11/2011,"887,9",661,1,399,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+25,28/02/2011,02/03/2011,5956,129,2,"1499,98","749,99",José  Gardner,Tadoo,GeForce GTX 590 Classified
+65,04/05/2011,05/05/2011,"3382,24",272,2,"400,4","200,2",Emili  Mcdonald,Spoint Sistemas de Informação,PCI Express 2.0 2DVI
+148,04/10/2011,10/10/2011,"2147,47",583,3,1197,399,Emili  Mcdonald,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+7,24/01/2011,27/01/2011,"2581,4",46,3,117,39,Maria  Yang,Truing Tecnologia,USB Portable Sound Card / Dac
+155,23/10/2011,24/10/2011,"463,21",610,17,"1053,66","61,98",Emili  Mcdonald,Truing Tecnologia,ATX Motherboard
+81,02/06/2011,04/06/2011,"463,21",334,17,"3403,4","200,2",José  Gardner,Kaify,PCI Express 2.0 2DVI
+29,03/03/2011,06/03/2011,2990,144,1,"49,99","49,99",José  Gardner,Roozio Informática,Inch Midtower Case
+115,23/07/2011,24/07/2011,"3491,93",468,1,39,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+140,19/09/2011,20/09/2011,14950,553,5,1995,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+101,04/07/2011,05/07/2011,"2717,09",409,2,"400,4","200,2",José  Gardner,Agilvee,PCI Express 2.0 2DVI
+113,19/07/2011,20/07/2011,"3784,84",462,4,1596,399,Maria  Yang,Spoint Sistemas de Informação,i7-2700K 3.5 GHz LGA 1155 Processor
+105,08/07/2011,09/07/2011,"3850,79",425,4,"2999,96","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+106,08/07/2011,12/07/2011,"3850,79",431,4,"35,96","8,99",Maria  Yang,Roozio Informática,Cooler Master Red LED Case Fan
+23,26/02/2011,28/02/2011,"2328,94",122,4,"800,8","200,2",Emili  Mcdonald,Tadoo,PCI Express 2.0 2DVI
+25,28/02/2011,02/03/2011,5956,130,4,"247,92","61,98",José  Gardner,Roozio Informática,ATX Motherboard
+65,04/05/2011,05/05/2011,"3382,24",273,3,1197,399,Emili  Mcdonald,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+54,08/04/2011,11/04/2011,"3058,98",235,3,"185,94","61,98",José  Gardner,Kaify,ATX Motherboard
+69,09/05/2011,11/05/2011,"2519,07",286,2,"17,98","8,99",José  Gardner,Kaify,Cooler Master Red LED Case Fan
+174,16/11/2011,19/11/2011,"573,91",666,2,78,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+123,04/08/2011,07/08/2011,"187,88",494,2,798,399,José  Gardner,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+54,08/04/2011,11/04/2011,"3058,98",236,2,"99,98","49,99",Maria  Yang,Mecabox Info,Inch Midtower Case
+51,06/04/2011,07/04/2011,"865,16",223,2,"99,98","49,99",Maria  Yang,Roozio Informática,Inch Midtower Case
+15,07/02/2011,11/02/2011,"2472,45",85,3,"185,94","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+144,25/09/2011,28/09/2011,"761,45",571,2,"123,96","61,98",Maria  Yang,Kaify,ATX Motherboard
+36,16/03/2011,17/03/2011,"2472,45",169,3,"149,97","49,99",José  Gardner,Truing Tecnologia,Inch Midtower Case
+99,29/06/2011,01/07/2011,"2472,45",398,3,117,39,Maria  Yang,Truing Tecnologia,USB Portable Sound Card / Dac
+159,25/10/2011,31/10/2011,"356,37",621,3,117,39,Emili  Mcdonald,Levester Tecnologia,USB Portable Sound Card / Dac
+19,17/02/2011,23/02/2011,"930,47",106,3,"185,94","61,98",Aladdin  Blackwell,Triloo Assistência Técnica,ATX Motherboard
+7,24/01/2011,27/01/2011,"2581,4",47,2,"400,4","200,2",Emili  Mcdonald,Truing Tecnologia,PCI Express 2.0 2DVI
+148,04/10/2011,10/10/2011,"2147,47",584,2,798,399,José  Gardner,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+26,01/03/2011,03/03/2011,"2399,8",135,2,78,39,José  Gardner,Kaify,USB Portable Sound Card / Dac
+115,23/07/2011,24/07/2011,"3491,93",466,2,"400,4","200,2",Maria  Yang,Kaify,PCI Express 2.0 2DVI
+127,10/08/2011,13/08/2011,"3598,78",512,3,"2249,97","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+10,29/01/2011,01/02/2011,"1434,94",54,4,"800,8","200,2",Maria  Yang,Kaify,PCI Express 2.0 2DVI
+4,16/01/2011,19/01/2011,"1478,64",27,3,"149,97","49,99",Benedito  Perry,Kaify,Inch Midtower Case
+150,07/10/2011,09/10/2011,"2363,57",594,4,156,39,José  Gardner,Kaify,USB Portable Sound Card / Dac
+104,06/07/2011,10/07/2011,"1784,97",419,3,1197,399,Maria  Yang,Mecabox Info,i7-2700K 3.5 GHz LGA 1155 Processor
+181,30/11/2011,03/12/2011,"1938,09",696,5,1001,"200,2",Emili  Mcdonald,Roozio Informática,PCI Express 2.0 2DVI
+141,20/09/2011,22/09/2011,"1833,56",558,5,"309,9","61,98",Maria  Yang,Tadoo,ATX Motherboard
+78,30/05/2011,02/06/2011,"1833,56",327,5,"309,9","61,98",Emili  Mcdonald,Roozio Informática,ATX Motherboard
+112,16/07/2011,19/07/2011,"1833,56",454,5,195,39,José  Gardner,Kaify,USB Portable Sound Card / Dac
+11,30/01/2011,03/02/2011,"943,08",61,2,78,39,Benedito  Perry,Levester Tecnologia,USB Portable Sound Card / Dac
+52,07/04/2011,13/04/2011,"11342,3",228,5,1995,399,Emili  Mcdonald,Digister,i7-2700K 3.5 GHz LGA 1155 Processor
+75,25/05/2011,26/05/2011,"11342,3",312,5,"44,95","8,99",José  Gardner,Spoint Sistemas de Informação,Cooler Master Red LED Case Fan
+63,26/04/2011,02/05/2011,"3727,53",269,6,"371,88","61,98",Maria  Yang,Kaify,ATX Motherboard
+187,13/12/2011,16/12/2011,"5279,06",714,5,"249,95","49,99",Emili  Mcdonald,Agilvee,Inch Midtower Case
+100,02/07/2011,05/07/2011,"2931,73",406,6,234,39,Emili  Mcdonald,Digister,USB Portable Sound Card / Dac
+172,07/11/2011,10/11/2011,"887,9",662,2,"1499,98","749,99",José  Gardner,Kaify,GeForce GTX 590 Classified
+131,29/08/2011,30/08/2011,"1433,13",519,3,"2249,97","749,99",Emili  Mcdonald,Digister,GeForce GTX 590 Classified
+106,08/07/2011,12/07/2011,"3850,79",432,2,78,39,José  Gardner,Digister,USB Portable Sound Card / Dac
+105,08/07/2011,09/07/2011,"3850,79",426,2,78,39,Emili  Mcdonald,Roozio Informática,USB Portable Sound Card / Dac
+186,10/12/2011,13/12/2011,"1964,58",707,3,117,39,Emili  Mcdonald,Truing Tecnologia,USB Portable Sound Card / Dac
+3,15/01/2011,18/01/2011,14228,20,4,156,39,Emili  Mcdonald,Truing Tecnologia,USB Portable Sound Card / Dac
+48,04/04/2011,05/04/2011,"729,61",214,3,"185,94","61,98",Maria  Yang,Digister,ATX Motherboard
+184,05/12/2011,08/12/2011,"449,92",702,4,156,39,Aladdin  Blackwell,Agilvee,USB Portable Sound Card / Dac
+32,14/03/2011,16/03/2011,"1005,44",152,3,"149,97","49,99",Maria  Yang,Roozio Informática,Inch Midtower Case
+139,18/09/2011,19/09/2011,"2753,41",550,3,"185,94","61,98",Emili  Mcdonald,Kaify,ATX Motherboard
+53,08/04/2011,10/04/2011,"1354,55",231,2,78,39,Benedito  Perry,Truing Tecnologia,USB Portable Sound Card / Dac
+189,17/12/2011,18/12/2011,"1622,8",723,2,"99,98","49,99",Maria  Yang,Triloo Assistência Técnica,Inch Midtower Case
+127,10/08/2011,13/08/2011,"3598,78",511,1,"8,99","8,99",Emili  Mcdonald,Triloo Assistência Técnica,Cooler Master Red LED Case Fan
+14,05/02/2011,09/02/2011,"3917,35",74,2,"99,98","49,99",Emili  Mcdonald,Kaify,Inch Midtower Case
+36,16/03/2011,17/03/2011,"2472,45",168,1,399,399,Emili  Mcdonald,Levester Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+15,07/02/2011,11/02/2011,"2472,45",84,1,"49,99","49,99",Maria  Yang,Kaify,Inch Midtower Case
+99,29/06/2011,01/07/2011,"2472,45",397,1,"8,99","8,99",Maria  Yang,Kaify,Cooler Master Red LED Case Fan
+157,24/10/2011,25/10/2011,"3004,67",617,1,39,39,José  Gardner,Levester Tecnologia,USB Portable Sound Card / Dac
+156,23/10/2011,27/10/2011,"401,97",611,3,"2249,97","749,99",José  Gardner,Kaify,GeForce GTX 590 Classified
+90,15/06/2011,18/06/2011,"401,97",365,3,"149,97","49,99",Maria  Yang,Mecabox Info,Inch Midtower Case
+44,31/03/2011,03/04/2011,"826,95",201,3,1197,399,José  Gardner,Digister,i7-2700K 3.5 GHz LGA 1155 Processor
+38,19/03/2011,22/03/2011,"974,05",183,3,"600,6","200,2",Emili  Mcdonald,Digister,PCI Express 2.0 2DVI
+2,11/01/2011,12/01/2011,"2434,29",6,2,"123,96","61,98",José  Gardner,Kaify,ATX Motherboard
+103,06/07/2011,08/07/2011,"1459,7",416,2,78,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+89,13/06/2011,16/06/2011,"660,65",364,1,"749,99","749,99",José  Gardner,Kaify,GeForce GTX 590 Classified
+38,19/03/2011,22/03/2011,"974,05",182,1,"49,99","49,99",Emili  Mcdonald,Kaify,Inch Midtower Case
+44,31/03/2011,03/04/2011,"826,95",200,1,"200,2","200,2",José  Gardner,Kaify,PCI Express 2.0 2DVI
+44,31/03/2011,03/04/2011,"826,95",202,3,"600,6","200,2",Emili  Mcdonald,Kaify,PCI Express 2.0 2DVI
+115,23/07/2011,24/07/2011,"3491,93",467,3,117,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+90,15/06/2011,18/06/2011,"401,97",366,3,1197,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+156,23/10/2011,27/10/2011,"401,97",612,3,"600,6","200,2",Benedito  Perry,Triloo Assistência Técnica,PCI Express 2.0 2DVI
+38,19/03/2011,22/03/2011,"974,05",184,3,1197,399,Emili  Mcdonald,Mecabox Info,i7-2700K 3.5 GHz LGA 1155 Processor
+130,26/08/2011,27/08/2011,"650,74",517,1,399,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+13,04/02/2011,07/02/2011,"2755,68",72,1,"749,99","749,99",Aladdin  Blackwell,Truing Tecnologia,GeForce GTX 590 Classified
+111,14/07/2011,20/07/2011,"429,95",448,1,"200,2","200,2",Emili  Mcdonald,Truing Tecnologia,PCI Express 2.0 2DVI
+70,12/05/2011,15/05/2011,"1380,09",293,7,"349,93","49,99",Maria  Yang,Kaify,Inch Midtower Case
+125,05/08/2011,09/08/2011,"435,92",503,3,"149,97","49,99",Emili  Mcdonald,Agilvee,Inch Midtower Case
+4,16/01/2011,19/01/2011,"1478,64",26,3,"600,6","200,2",José  Gardner,Mecabox Info,PCI Express 2.0 2DVI
+8,28/01/2011,29/01/2011,"1582,16",51,1,"8,99","8,99",Emili  Mcdonald,Spoint Sistemas de Informação,Cooler Master Red LED Case Fan
+136,02/09/2011,03/09/2011,"1313,19",538,1,"8,99","8,99",José  Gardner,Roozio Informática,Cooler Master Red LED Case Fan
+82,03/06/2011,04/06/2011,"1163,87",335,2,"17,98","8,99",Emili  Mcdonald,Mecabox Info,Cooler Master Red LED Case Fan
+91,15/06/2011,18/06/2011,"3135,46",367,4,1596,399,Emili  Mcdonald,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+44,31/03/2011,03/04/2011,"826,95",203,4,"35,96","8,99",Maria  Yang,Spoint Sistemas de Informação,Cooler Master Red LED Case Fan
+38,19/03/2011,22/03/2011,"974,05",185,4,"247,92","61,98",Maria  Yang,Levester Tecnologia,ATX Motherboard
+167,03/11/2011,06/11/2011,"445,37",646,1,"8,99","8,99",Maria  Yang,Kaify,Cooler Master Red LED Case Fan
+19,17/02/2011,23/02/2011,"930,47",105,5,"3749,95","749,99",Maria  Yang,Agilvee,GeForce GTX 590 Classified
+110,13/07/2011,17/07/2011,"66,5",446,5,"249,95","49,99",José  Gardner,Kaify,Inch Midtower Case
+88,12/06/2011,15/06/2011,"898,44",359,1,399,399,Emili  Mcdonald,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+152,11/10/2011,13/10/2011,"493,14",600,3,"149,97","49,99",Maria  Yang,Tadoo,Inch Midtower Case
+36,16/03/2011,17/03/2011,"2472,45",167,2,"1499,98","749,99",José  Gardner,Levester Tecnologia,GeForce GTX 590 Classified
+15,07/02/2011,11/02/2011,"2472,45",83,2,"123,96","61,98",José  Gardner,Digister,ATX Motherboard
+157,24/10/2011,25/10/2011,"3004,67",616,2,"99,98","49,99",Maria  Yang,Truing Tecnologia,Inch Midtower Case
+99,29/06/2011,01/07/2011,"2472,45",396,2,78,39,Maria  Yang,Levester Tecnologia,USB Portable Sound Card / Dac
+55,09/04/2011,11/04/2011,"566,09",240,2,"99,98","49,99",Emili  Mcdonald,Tadoo,Inch Midtower Case
+163,28/10/2011,03/11/2011,"222,96",630,2,"99,98","49,99",Benedito  Perry,Digister,Inch Midtower Case
+23,26/02/2011,28/02/2011,"2328,94",123,1,"8,99","8,99",Emili  Mcdonald,Truing Tecnologia,Cooler Master Red LED Case Fan
+153,22/10/2011,25/10/2011,"492,74",606,1,"749,99","749,99",Emili  Mcdonald,Levester Tecnologia,GeForce GTX 590 Classified
+60,19/04/2011,23/04/2011,"1239,84",256,4,"247,92","61,98",Maria  Yang,Truing Tecnologia,ATX Motherboard
+82,03/06/2011,04/06/2011,"1163,87",336,1,399,399,Maria  Yang,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+66,04/05/2011,05/05/2011,"748,43",275,5,195,39,Emili  Mcdonald,Truing Tecnologia,USB Portable Sound Card / Dac
+14,05/02/2011,09/02/2011,"3917,35",75,1,"749,99","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+160,27/10/2011,28/10/2011,"524,21",624,1,39,39,Emili  Mcdonald,Agilvee,USB Portable Sound Card / Dac
+150,07/10/2011,09/10/2011,"2363,57",592,5,195,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+126,09/08/2011,10/08/2011,"1172,03",504,1,"49,99","49,99",Aladdin  Blackwell,Spoint Sistemas de Informação,Inch Midtower Case
+8,28/01/2011,29/01/2011,"1582,16",50,2,"400,4","200,2",Emili  Mcdonald,Spoint Sistemas de Informação,PCI Express 2.0 2DVI
+135,02/09/2011,08/09/2011,"1763,14",537,2,"17,98","8,99",Emili  Mcdonald,Levester Tecnologia,Cooler Master Red LED Case Fan
+4,16/01/2011,19/01/2011,"1478,64",25,4,1596,399,Maria  Yang,Spoint Sistemas de Informação,i7-2700K 3.5 GHz LGA 1155 Processor
+125,05/08/2011,09/08/2011,"435,92",502,4,"247,92","61,98",Emili  Mcdonald,Digister,ATX Motherboard
+119,28/07/2011,29/07/2011,"347,14",479,5,"309,9","61,98",Emili  Mcdonald,Spoint Sistemas de Informação,ATX Motherboard
+42,31/03/2011,01/04/2011,"266,48",193,5,"249,95","49,99",Benedito  Perry,Mecabox Info,Inch Midtower Case
+91,15/06/2011,18/06/2011,"3135,46",371,1,"49,99","49,99",José  Gardner,Digister,Inch Midtower Case
+34,15/03/2011,18/03/2011,"574,92",160,1,"749,99","749,99",Emili  Mcdonald,Digister,GeForce GTX 590 Classified
+18,14/02/2011,16/02/2011,"774,97",104,1,399,399,Emili  Mcdonald,Tadoo,i7-2700K 3.5 GHz LGA 1155 Processor
+110,13/07/2011,17/07/2011,"66,5",445,1,"749,99","749,99",Maria  Yang,Tadoo,GeForce GTX 590 Classified
+57,11/04/2011,15/04/2011,"472,94",245,1,"49,99","49,99",Maria  Yang,Digister,Inch Midtower Case
+47,03/04/2011,06/04/2011,"183,56",212,4,1596,399,José  Gardner,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+115,23/07/2011,24/07/2011,"3491,93",465,2,"400,4","200,2",Maria  Yang,Spoint Sistemas de Informação,PCI Express 2.0 2DVI
+26,01/03/2011,03/03/2011,"2399,8",134,2,78,39,Emili  Mcdonald,Kaify,USB Portable Sound Card / Dac
+188,17/12/2011,18/12/2011,"427,82",721,1,"8,99","8,99",Emili  Mcdonald,Levester Tecnologia,Cooler Master Red LED Case Fan
+175,18/11/2011,22/11/2011,"427,82",673,1,399,399,Maria  Yang,Roozio Informática,i7-2700K 3.5 GHz LGA 1155 Processor
+180,29/11/2011,03/12/2011,"1806,03",692,8,"71,92","8,99",Emili  Mcdonald,Agilvee,Cooler Master Red LED Case Fan
+12,04/02/2011,07/02/2011,"786,42",66,2,"123,96","61,98",José  Gardner,Digister,ATX Motherboard
+47,03/04/2011,06/04/2011,"183,56",213,4,"199,96","49,99",Emili  Mcdonald,Digister,Inch Midtower Case
+74,23/05/2011,29/05/2011,"375,15",307,8,"1601,6","200,2",Emili  Mcdonald,Truing Tecnologia,PCI Express 2.0 2DVI
+94,18/06/2011,21/06/2011,"541,46",381,2,"400,4","200,2",Emili  Mcdonald,Truing Tecnologia,PCI Express 2.0 2DVI
+185,08/12/2011,11/12/2011,"1570,57",703,1,"200,2","200,2",Maria  Yang,Tadoo,PCI Express 2.0 2DVI
+88,12/06/2011,15/06/2011,"898,44",357,2,"99,98","49,99",José  Gardner,Spoint Sistemas de Informação,Inch Midtower Case
+20,18/02/2011,19/02/2011,"1664,54",112,1,"749,99","749,99",Emili  Mcdonald,Spoint Sistemas de Informação,GeForce GTX 590 Classified
+144,25/09/2011,28/09/2011,"761,45",569,1,399,399,Emili  Mcdonald,Digister,i7-2700K 3.5 GHz LGA 1155 Processor
+3,15/01/2011,18/01/2011,14228,21,1,"61,98","61,98",Aladdin  Blackwell,Agilvee,ATX Motherboard
+11,30/01/2011,03/02/2011,"943,08",60,1,399,399,Emili  Mcdonald,Mecabox Info,i7-2700K 3.5 GHz LGA 1155 Processor
+131,29/08/2011,30/08/2011,"1433,13",520,1,"61,98","61,98",Emili  Mcdonald,Levester Tecnologia,ATX Motherboard
+169,04/11/2011,07/11/2011,"409,83",655,1,"749,99","749,99",José  Gardner,Triloo Assistência Técnica,GeForce GTX 590 Classified
+76,28/05/2011,31/05/2011,"2984,6",315,1,399,399,José  Gardner,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+46,02/04/2011,05/04/2011,"5141,67",208,7,"349,93","49,99",Maria  Yang,Digister,Inch Midtower Case
+1,06/01/2011,07/01/2011,"5141,67",1,7,"62,93","8,99",Emili  Mcdonald,Levester Tecnologia,Cooler Master Red LED Case Fan
+15,07/02/2011,11/02/2011,"2472,45",82,1,"200,2","200,2",Emili  Mcdonald,Levester Tecnologia,PCI Express 2.0 2DVI
+3,15/01/2011,18/01/2011,14228,22,2,"1499,98","749,99",Maria  Yang,Levester Tecnologia,GeForce GTX 590 Classified
+116,24/07/2011,26/07/2011,"1428,13",471,1,"49,99","49,99",Maria  Yang,Kaify,Inch Midtower Case
+36,16/03/2011,17/03/2011,"2472,45",166,1,"8,99","8,99",Maria  Yang,Spoint Sistemas de Informação,Cooler Master Red LED Case Fan
+99,29/06/2011,01/07/2011,"2472,45",395,1,"8,99","8,99",Maria  Yang,Levester Tecnologia,Cooler Master Red LED Case Fan
+59,18/04/2011,22/04/2011,"2624,93",251,7,"62,93","8,99",Emili  Mcdonald,Tadoo,Cooler Master Red LED Case Fan
+157,24/10/2011,25/10/2011,"3004,67",614,7,"349,93","49,99",Benedito  Perry,Agilvee,Inch Midtower Case
+134,01/09/2011,04/09/2011,"3584,46",532,1,"749,99","749,99",Maria  Yang,Agilvee,GeForce GTX 590 Classified
+142,21/09/2011,22/09/2011,"2151,09",564,1,"8,99","8,99",José  Gardner,Digister,Cooler Master Red LED Case Fan
+28,03/03/2011,06/03/2011,"318,67",143,1,"61,98","61,98",Aladdin  Blackwell,Truing Tecnologia,ATX Motherboard
+71,13/05/2011,19/05/2011,"1044,58",295,2,"17,98","8,99",Emili  Mcdonald,Truing Tecnologia,Cooler Master Red LED Case Fan
+2,11/01/2011,12/01/2011,"2434,29",7,4,"800,8","200,2",Maria  Yang,Tadoo,PCI Express 2.0 2DVI
+103,06/07/2011,08/07/2011,"1459,7",417,4,"35,96","8,99",Emili  Mcdonald,Roozio Informática,Cooler Master Red LED Case Fan
+19,17/02/2011,23/02/2011,"930,47",108,1,39,39,Maria  Yang,Kaify,USB Portable Sound Card / Dac
+104,06/07/2011,10/07/2011,"1784,97",421,1,39,39,Emili  Mcdonald,Spoint Sistemas de Informação,USB Portable Sound Card / Dac
+8,28/01/2011,29/01/2011,"1582,16",49,1,"61,98","61,98",José  Gardner,Spoint Sistemas de Informação,ATX Motherboard
+4,16/01/2011,19/01/2011,"1478,64",29,1,"749,99","749,99",Emili  Mcdonald,Kaify,GeForce GTX 590 Classified
+135,02/09/2011,08/09/2011,"1763,14",536,1,399,399,Emili  Mcdonald,Roozio Informática,i7-2700K 3.5 GHz LGA 1155 Processor
+88,12/06/2011,15/06/2011,"898,44",361,1,"200,2","200,2",José  Gardner,Agilvee,PCI Express 2.0 2DVI
+182,03/12/2011,07/12/2011,"1040,95",698,2,"400,4","200,2",Emili  Mcdonald,Tadoo,PCI Express 2.0 2DVI
+43,31/03/2011,01/04/2011,"1148,41",198,2,"99,98","49,99",Emili  Mcdonald,Kaify,Inch Midtower Case
+2,11/01/2011,12/01/2011,"2434,29",9,1,"61,98","61,98",José  Gardner,Roozio Informática,ATX Motherboard
+105,08/07/2011,09/07/2011,"3850,79",429,1,"749,99","749,99",José  Gardner,Truing Tecnologia,GeForce GTX 590 Classified
+151,10/10/2011,12/10/2011,"1282,36",598,1,399,399,José  Gardner,Triloo Assistência Técnica,i7-2700K 3.5 GHz LGA 1155 Processor
+8,28/01/2011,29/01/2011,"1582,16",48,1,39,39,Maria  Yang,Spoint Sistemas de Informação,USB Portable Sound Card / Dac
+106,08/07/2011,12/07/2011,"3850,79",435,1,399,399,Maria  Yang,Levester Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+135,02/09/2011,08/09/2011,"1763,14",535,1,399,399,Emili  Mcdonald,Levester Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+186,10/12/2011,13/12/2011,"1964,58",708,2,"123,96","61,98",Emili  Mcdonald,Digister,ATX Motherboard
+24,26/02/2011,27/02/2011,"2352,58",128,2,798,399,Maria  Yang,Triloo Assistência Técnica,i7-2700K 3.5 GHz LGA 1155 Processor
+48,04/04/2011,05/04/2011,"729,61",215,2,798,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+89,13/06/2011,16/06/2011,"660,65",363,2,798,399,Maria  Yang,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+46,02/04/2011,05/04/2011,"5141,67",209,6,2394,399,Benedito  Perry,Truing Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+1,06/01/2011,07/01/2011,"5141,67",2,6,2394,399,Emili  Mcdonald,Spoint Sistemas de Informação,i7-2700K 3.5 GHz LGA 1155 Processor
+13,04/02/2011,07/02/2011,"2755,68",73,1,"8,99","8,99",Emili  Mcdonald,Triloo Assistência Técnica,Cooler Master Red LED Case Fan
+130,26/08/2011,27/08/2011,"650,74",518,1,"61,98","61,98",Maria  Yang,Roozio Informática,ATX Motherboard
+150,07/10/2011,09/10/2011,"2363,57",590,1,39,39,José  Gardner,Roozio Informática,USB Portable Sound Card / Dac
+96,23/06/2011,27/06/2011,"2662,46",384,2,798,399,Emili  Mcdonald,Agilvee,i7-2700K 3.5 GHz LGA 1155 Processor
+103,06/07/2011,08/07/2011,"1459,7",418,1,"61,98","61,98",Maria  Yang,Mecabox Info,ATX Motherboard
+2,11/01/2011,12/01/2011,"2434,29",8,1,"61,98","61,98",Emili  Mcdonald,Tadoo,ATX Motherboard
+157,24/10/2011,25/10/2011,"3004,67",615,7,2793,399,Maria  Yang,Agilvee,i7-2700K 3.5 GHz LGA 1155 Processor
+59,18/04/2011,22/04/2011,"2624,93",252,7,"1401,4","200,2",José  Gardner,Tadoo,PCI Express 2.0 2DVI
+92,17/06/2011,18/06/2011,"899,69",374,2,798,399,Maria  Yang,Kaify,i7-2700K 3.5 GHz LGA 1155 Processor
+34,15/03/2011,18/03/2011,"574,92",163,2,"99,98","49,99",Emili  Mcdonald,Kaify,Inch Midtower Case
+101,04/07/2011,05/07/2011,"2717,09",410,1,"749,99","749,99",Emili  Mcdonald,Truing Tecnologia,GeForce GTX 590 Classified
+177,23/11/2011,26/11/2011,"1380,78",677,2,"1499,98","749,99",Emili  Mcdonald,Triloo Assistência Técnica,GeForce GTX 590 Classified
+33,14/03/2011,17/03/2011,"3962,28",155,2,"99,98","49,99",José  Gardner,Digister,Inch Midtower Case
+127,10/08/2011,13/08/2011,"3598,78",506,2,798,399,Emili  Mcdonald,Levester Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+16,11/02/2011,14/02/2011,"2464,39",94,3,"600,6","200,2",José  Gardner,Kaify,PCI Express 2.0 2DVI
+69,09/05/2011,11/05/2011,"2519,07",288,2,798,399,José  Gardner,Triloo Assistência Técnica,i7-2700K 3.5 GHz LGA 1155 Processor
+109,13/07/2011,16/07/2011,"3586,51",443,3,"2249,97","749,99",Emili  Mcdonald,Triloo Assistência Técnica,GeForce GTX 590 Classified
+176,22/11/2011,25/11/2011,"570,16",674,2,"1499,98","749,99",José  Gardner,Kaify,GeForce GTX 590 Classified
+98,29/06/2011,01/07/2011,"969,93",393,3,"26,97","8,99",Benedito  Perry,Truing Tecnologia,Cooler Master Red LED Case Fan
+63,26/04/2011,02/05/2011,"3727,53",267,3,"2249,97","749,99",Maria  Yang,Truing Tecnologia,GeForce GTX 590 Classified
+16,11/02/2011,14/02/2011,"2464,39",96,2,"17,98","8,99",Emili  Mcdonald,Levester Tecnologia,Cooler Master Red LED Case Fan
+84,05/06/2011,06/06/2011,"1931,09",341,1,"61,98","61,98",Emili  Mcdonald,Tadoo,ATX Motherboard
+190,18/12/2011,19/12/2011,"7001,06",724,2,"400,4","200,2",Maria  Yang,Mecabox Info,PCI Express 2.0 2DVI
+6,17/01/2011,18/01/2011,"4784,35",35,1,"749,99","749,99",Emili  Mcdonald,Truing Tecnologia,GeForce GTX 590 Classified
+146,04/10/2011,06/10/2011,"2056,22",577,1,39,39,Emili  Mcdonald,Roozio Informática,USB Portable Sound Card / Dac
+3,15/01/2011,18/01/2011,14228,10,2,"17,98","8,99",Emili  Mcdonald,Agilvee,Cooler Master Red LED Case Fan
+129,18/08/2011,19/08/2011,"1049,99",516,1,"49,99","49,99",Maria  Yang,Spoint Sistemas de Informação,Inch Midtower Case
+104,06/07/2011,10/07/2011,"1784,97",422,1,39,39,Maria  Yang,Spoint Sistemas de Informação,USB Portable Sound Card / Dac
+185,08/12/2011,11/12/2011,"1570,57",706,2,78,39,José  Gardner,Kaify,USB Portable Sound Card / Dac
+57,11/04/2011,15/04/2011,"472,94",244,2,"1499,98","749,99",Maria  Yang,Mecabox Info,GeForce GTX 590 Classified
+45,01/04/2011,04/04/2011,"829,18",205,1,399,399,Emili  Mcdonald,Agilvee,i7-2700K 3.5 GHz LGA 1155 Processor
+182,03/12/2011,07/12/2011,"1040,95",699,3,"2249,97","749,99",José  Gardner,Roozio Informática,GeForce GTX 590 Classified
+43,31/03/2011,01/04/2011,"1148,41",199,3,"26,97","8,99",Emili  Mcdonald,Roozio Informática,Cooler Master Red LED Case Fan
+122,03/08/2011,06/08/2011,"2594,5",488,2,"400,4","200,2",Emili  Mcdonald,Truing Tecnologia,PCI Express 2.0 2DVI
+26,01/03/2011,03/03/2011,"2399,8",131,2,798,399,Emili  Mcdonald,Levester Tecnologia,i7-2700K 3.5 GHz LGA 1155 Processor
+137,06/09/2011,07/09/2011,"947,35",544,1,"200,2","200,2",Maria  Yang,Roozio Informática,PCI Express 2.0 2DVI
+124,05/08/2011,08/08/2011,"1681,68",499,1,"49,99","49,99",Emili  Mcdonald,Levester Tecnologia,Inch Midtower Case
+100,02/07/2011,05/07/2011,"2931,73",407,1,39,39,Maria  Yang,Spoint Sistemas de Informação,USB Portable Sound Card / Dac
+16,11/02/2011,14/02/2011,"2464,39",95,2,"99,98","49,99",José  Gardner,Levester Tecnologia,Inch Midtower Case
+109,13/07/2011,16/07/2011,"3586,51",444,2,"123,96","61,98",Emili  Mcdonald,Roozio Informática,ATX Motherboard
+64,01/05/2011,04/05/2011,"1357,79",270,1,"61,98","61,98",Emili  Mcdonald,Truing Tecnologia,ATX Motherboard
+86,08/06/2011,14/06/2011,"779,25",349,1,"49,99","49,99",Emili  Mcdonald,Truing Tecnologia,Inch Midtower Case
+72,17/05/2011,19/05/2011,"947,35",299,1,"749,99","749,99",Benedito  Perry,Truing Tecnologia,GeForce GTX 590 Classified
+128,14/08/2011,15/08/2011,"641,97",514,1,"749,99","749,99",Maria  Yang,Levester Tecnologia,GeForce GTX 590 Classified
+98,29/06/2011,01/07/2011,"969,93",394,4,"2999,96","749,99",Maria  Yang,Kaify,GeForce GTX 590 Classified
+63,26/04/2011,02/05/2011,"3727,53",268,4,"247,92","61,98",Emili  Mcdonald,Mecabox Info,ATX Motherboard
+10,29/01/2011,01/02/2011,"1434,94",55,2,"123,96","61,98",Aladdin  Blackwell,Spoint Sistemas de Informação,ATX Motherboard
+150,07/10/2011,09/10/2011,"2363,57",595,2,"123,96","61,98",José  Gardner,Triloo Assistência Técnica,ATX Motherboard
+5,16/01/2011,19/01/2011,"410,38",30,1,399,399,José  Gardner,Triloo Assistência Técnica,i7-2700K 3.5 GHz LGA 1155 Processor

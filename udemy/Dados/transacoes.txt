@@ -1,0 +1,6 @@
+Cerveja,Pizza,Sorvete
+Pizza,Sorvete
+Cerveja,Pizza
+Cerveja,Pizza,Sorvete
+Cerveja,Pizza
+Pizza
